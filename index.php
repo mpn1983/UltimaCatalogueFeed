@@ -25,7 +25,7 @@ $config = UltimaConfig::getInstance();
 //TODO: preflight checks: check last time script was run - if it's never been run do some cursory check of the environment - loaded extenstions etc
 
 
-//$UltimaFeed = new UltimaFeed("http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=topcategories&accesscode=XML1808092003267");
+//$UltimaFeed = new UltimaFeed("http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=topcategories&accesscode=");
 //$UltimaFeed->getAllSubCategoriesAndItems();
 
 UltimaTransformation::transformEntireFeed();
