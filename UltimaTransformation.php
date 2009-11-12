@@ -59,6 +59,10 @@ class UltimaTransformation {
         // check if the result of the transformation needs updating
         if ($this->isResultFileOutOfDate())
         {
+            //due to the feed from ultima being crap we need to stitch documents
+            //together with their immediate children to get all info need for a transformation
+            $this->recombineXMLfile();
+
             //create xslt processor
             $xslDoc = new DOMDocument;
             if ($xslDoc->load($this->_xslFilePath) == false)
@@ -135,10 +139,34 @@ class UltimaTransformation {
     }
 
     /**
+     * Rebuilds the XML file so that it contains the documents of any of it's immediate children
+     *
+     * @return Void
+     */
+    private function recombineXMLfile()
+    {
+         //TODO: build this function
+
+         /* pseudo code:
+
+         if(category1 from child XML doc == parent doc)
+         {
+           Stitch child doc into parent where the calling node was
+         }
+         else
+         {
+          * remove the offending node
+         }
+
+          */
+    }
+
+    /**
      * Gets the filepath to save the transformation result
      *
      * @return String - the directory path and filename
      */
+     //TODO: update this based on restitching files together due to crappy feed data
     private function getSaveAsFilePath()
     {
         //create the variable to hold the xPath
