@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssxml version="1.00">
+    <ssxmlquery name="category" version="1.00" account="ULTIMA" profileuserid="3451" profileusercode="Collective Colour XML TEST" profileusername="Collective Colour XML TEST" profileuseremail="matt@collectivecolour.co.uk" request="000001" requestdt="2009-11-06 16:37:48" sessionid="517faebc-3898-4d1c-8f1d-4a2461fb3f9f">
+        <ssxmlparameters>
+            <ssxmlparameter name="categoryid">74</ssxmlparameter>
+        </ssxmlparameters>
+        <category id="74" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=74">
+            <name>Physique Freestyle</name>
+            <parentcategory1 id="17" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=17">
+                <name>Physique Portable Furniture</name>
+                <path>Physique Portable Furniture</path>
+                <brand id="0" name="Common" />
+            </parentcategory1>
+            <image1 href="http://www.ultimadisplays.co.uk/images/Physique.jpg"></image1>
+            <datetimestart>2005-09-29 15:20:00</datetimestart>
+            <language code="EN" name="English" />
+            <position>1</position>
+            <foldername>physique_freestyle</foldername>
+            <fullfoldername>products/physique_portable_furniture/physique_freestyle/</fullfoldername>
+            <items>
+                <item id="1042" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=1042">
+                    <code>PK189</code>
+                    <title>Comet - Physique Freestyle</title>
+                    <image1 href="http://www.ultimadisplays.co.uk/images/Physique/PK189_Comet.jpg"></image1>
+                    <price1 ccy="GBP">350.00</price1>
+                    <variants count="9">
+                        <minprice1 ccy="GBP">350.00</minprice1>
+                        <maxprice1 ccy="GBP">638.00</maxprice1>
+                    </variants>
+                    <attributes count="5">
+                        <attribute id="2" name="Features" type="TEXT"><![CDATA[Constructed from composite materials and flexible MDF tambour;Flat packed, easy to transport and quick to assemble;No tools requiredChoice of Luxury Foam Backed Loop Nylon, Front Runner or Prelude fabric wraps &lt;A class="" href="http://www.ultimadisplays.co.uk/files/Resource%20Centre/Colour%20Swatch.pdf"&gt;(see colour swatch)&lt;/A&gt;;Beech and Aluminium tambour wraps also available;Wrap dimensions 970mm (h) x 1365mm (w);Overall size: 1010mm (h) x 1010mm (w) x 655mm (d);R&lt;SPAN class=508074611-29092008&gt;&lt;FONT face=Arial size=2&gt;ecommended&lt;/FONT&gt;&lt;/SPAN&gt; carry bag AB151]]>
+                        </attribute>
+                        <attribute id="6" name="No Add-On Fabric Charge" type="BOOL"><![CDATA[1]]>
+                        </attribute>
+                        <attribute id="7" name="ChoiceOfFabricTypes" type="DROPDOWN" >
+                            <options>
+                                <option id="636" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Blaze</option>
+                                <option id="637" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Coal</option>
+                                <option id="638" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Cornflower</option>
+                                <option id="639" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Emerald Green</option>
+                                <option id="641" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Imperial Blue</option>
+                                <option id="1062" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">NO FABRIC</option>
+                                <option id="643" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Panama</option>
+                                <option id="645" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Silver</option>
+                                <option id="646" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Windsor</option>
+                                <option id="647" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Beige</option>
+                                <option id="648" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Black</option>
+                                <option id="649" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Bottle Green</option>
+                                <option id="650" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Dark Wine</option>
+                                <option id="651" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Emerald Green</option>
+                                <option id="652" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Gunmetal</option>
+                                <option id="653" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Hyacinth</option>
+                                <option id="654" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Ink Navy</option>
+                                <option id="655" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Medici</option>
+                                <option id="656" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">New Grey</option>
+                                <option id="1063" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">NO FABRIC</option>
+                                <option id="657" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Pacific</option>
+                                <option id="658" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Plasma Red</option>
+                                <option id="660" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Quince Green</option>
+                                <option id="662" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Saffron</option>
+                                <option id="663" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Steel Blue</option>
+                                <option id="669" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Aegean</option>
+                                <option id="670" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Cobalt</option>
+                                <option id="672" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Eclipse</option>
+                                <option id="674" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Flame</option>
+                                <option id="675" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Forest</option>
+                                <option id="676" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Madison</option>
+                                <option id="1065" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">NO FABRIC</option>
+                                <option id="678" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Platinum</option>
+                                <option id="680" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Royal</option>
+                                <option id="682" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Steller</option>
+                            </options>
+                        </attribute>
+                        <attribute id="8" name="symbol_one" type="TEXT"><![CDATA[Modular]]>
+                        </attribute>
+                        <attribute id="9" name="symbol_two" type="TEXT"><![CDATA[10 Year Guarantee]]>
+                        </attribute>
+                    </attributes>
+                </item>
+                <item id="378" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=378">
+                    <code>PK180</code>
+                    <title>Cosmopolitan - Physique Freestyle</title>
+                    <image1 href="http://www.ultimadisplays.co.uk/images/Physique/Cosmo1.jpg"></image1>
+                    <price1 ccy="GBP">0.00</price1>
+                    <variants count="6">
+                        <minprice1 ccy="GBP">375.00</minprice1>
+                        <maxprice1 ccy="GBP">562.50</maxprice1>
+                    </variants>
+                    <attributes count="6">
+                        <attribute id="1" name="Description" type="TEXT"><![CDATA[Stylish and practical, the Cosmopolitan is an ideal workstation for all exhibitions and displays]]>
+                        </attribute>
+                        <attribute id="2" name="Features" type="TEXT"><![CDATA[Complete with wire kit to suspend rigid graphic substrates;Constructed from composite materials and flexible MDF tambour;Flat packed, easy to transport and quick to assemble;No tools required;Load bearing up to 75kgs approx;Choice of Luxury Foam Backed Loop Nylon, Front Runner or Prelude fabric wraps &lt;A class="" href="files/Resource Centre/Colour Swatch.pdf" target=_blank&gt;(see colour swatch)&lt;/A&gt;;Beech and Aluminium tambour wraps also available;Unit has a full wrap around its perimeter;Graphic panels are not supplied;Recommened graphic panel dimensions 850mm high x 495mm wide x 4mm deep approx;&lt;STRONG&gt;Recommended Carry Bag&lt;/STRONG&gt; &lt;FONT color=#ff0000&gt;AB176&lt;/FONT&gt;;&lt;STRONG&gt;Recommended Carry Case&lt;/STRONG&gt; &lt;FONT color=#ff0000&gt;AC347A&lt;/FONT&gt;;Customised units are available on request]]>
+                        </attribute>
+                        <attribute id="6" name="No Add-On Fabric Charge" type="BOOL"><![CDATA[1]]>
+                        </attribute>
+                        <attribute id="7" name="ChoiceOfFabricTypes" type="DROPDOWN" >
+                            <options>
+                                <option id="636" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Blaze</option>
+                                <option id="637" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Coal</option>
+                                <option id="638" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Cornflower</option>
+                                <option id="639" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Emerald Green</option>
+                                <option id="641" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Imperial Blue</option>
+                                <option id="1062" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">NO FABRIC</option>
+                                <option id="643" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Panama</option>
+                                <option id="645" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Silver</option>
+                                <option id="646" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Windsor</option>
+                                <option id="647" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Beige</option>
+                                <option id="648" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Black</option>
+                                <option id="649" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Bottle Green</option>
+                                <option id="650" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Dark Wine</option>
+                                <option id="651" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Emerald Green</option>
+                                <option id="652" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Gunmetal</option>
+                                <option id="653" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Hyacinth</option>
+                                <option id="654" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Ink Navy</option>
+                                <option id="655" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Medici</option>
+                                <option id="656" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">New Grey</option>
+                                <option id="1063" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">NO FABRIC</option>
+                                <option id="657" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Pacific</option>
+                                <option id="658" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Plasma Red</option>
+                                <option id="660" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Quince Green</option>
+                                <option id="662" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Saffron</option>
+                                <option id="663" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Steel Blue</option>
+                                <option id="669" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Aegean</option>
+                                <option id="670" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Cobalt</option>
+                                <option id="672" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Eclipse</option>
+                                <option id="674" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Flame</option>
+                                <option id="675" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Forest</option>
+                                <option id="676" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Madison</option>
+                                <option id="1065" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">NO FABRIC</option>
+                                <option id="678" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Platinum</option>
+                                <option id="680" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Royal</option>
+                                <option id="682" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Steller</option>
+                            </options>
+                        </attribute>
+                        <attribute id="8" name="symbol_one" type="TEXT"><![CDATA[Modular]]>
+                        </attribute>
+                        <attribute id="9" name="symbol_two" type="TEXT"><![CDATA[10 Year Guarantee]]>
+                        </attribute>
+                    </attributes>
+                </item>
+                <item id="1040" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=1040">
+                    <code>PK187</code>
+                    <title>Cresent - Physique Freestyle</title>
+                    <image1 href="http://www.ultimadisplays.co.uk/images/Physique/PK187_Cresent.jpg"></image1>
+                    <price1 ccy="GBP">299.00</price1>
+                    <variants count="9">
+                        <minprice1 ccy="GBP">299.00</minprice1>
+                        <maxprice1 ccy="GBP">525.00</maxprice1>
+                    </variants>
+                    <attributes count="6">
+                        <attribute id="1" name="Description" type="TEXT"><![CDATA[Ideal for greeting counter, workstation or product display unit.]]>
+                        </attribute>
+                        <attribute id="2" name="Features" type="TEXT"><![CDATA[Ergonomic design;Optional shelf;Can be open or closed at back;Constructed from composite materials and flexible MDF tambour;Flat packed, easy to transport and quick to assembleNo tools required;Choice of Luxury Foam Backed Loop Nylon, Front Runner or Prelude fabric wraps &lt;A class="" href="http://www.ultimadisplays.co.uk/files/Resource%20Centre/Colour%20Swatch.pdf" target=_blank&gt;(see colour swatch)&lt;/A&gt;;Beech and Aluminium tambour wraps also available;Overall size: 1000mm (h) x 950mm (w) x 565mm (d);Wrap dimensions - Beech 970mm (h) x 2425mm (w) Fabric 970mm (h) x 2450 (w);Recommended bag AB176 case AC347Al]]>
+                        </attribute>
+                        <attribute id="6" name="No Add-On Fabric Charge" type="BOOL"><![CDATA[1]]>
+                        </attribute>
+                        <attribute id="7" name="ChoiceOfFabricTypes" type="DROPDOWN" >
+                            <options>
+                                <option id="636" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Blaze</option>
+                                <option id="637" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Coal</option>
+                                <option id="638" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Cornflower</option>
+                                <option id="639" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Emerald Green</option>
+                                <option id="641" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Imperial Blue</option>
+                                <option id="1062" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">NO FABRIC</option>
+                                <option id="643" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Panama</option>
+                                <option id="645" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Silver</option>
+                                <option id="646" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Windsor</option>
+                                <option id="647" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Beige</option>
+                                <option id="648" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Black</option>
+                                <option id="649" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Bottle Green</option>
+                                <option id="650" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Dark Wine</option>
+                                <option id="651" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Emerald Green</option>
+                                <option id="652" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Gunmetal</option>
+                                <option id="653" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Hyacinth</option>
+                                <option id="654" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Ink Navy</option>
+                                <option id="655" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Medici</option>
+                                <option id="656" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">New Grey</option>
+                                <option id="1063" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">NO FABRIC</option>
+                                <option id="657" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Pacific</option>
+                                <option id="658" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Plasma Red</option>
+                                <option id="660" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Quince Green</option>
+                                <option id="662" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Saffron</option>
+                                <option id="663" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Steel Blue</option>
+                                <option id="669" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Aegean</option>
+                                <option id="670" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Cobalt</option>
+                                <option id="672" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Eclipse</option>
+                                <option id="674" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Flame</option>
+                                <option id="675" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Forest</option>
+                                <option id="676" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Madison</option>
+                                <option id="1065" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">NO FABRIC</option>
+                                <option id="678" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Platinum</option>
+                                <option id="680" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Royal</option>
+                                <option id="682" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Steller</option>
+                            </options>
+                        </attribute>
+                        <attribute id="8" name="symbol_one" type="TEXT"><![CDATA[Modular]]>
+                        </attribute>
+                        <attribute id="9" name="symbol_two" type="TEXT"><![CDATA[10 Year Guarantee]]>
+                        </attribute>
+                    </attributes>
+                </item>
+                <item id="379" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=379">
+                    <code>PK160</code>
+                    <title>Curved Workstation - Physique Freestyle</title>
+                    <image1 href="http://www.ultimadisplays.co.uk/images/Physique/Curvedwfullwraplge.jpg"></image1>
+                    <price1 ccy="GBP">0.00</price1>
+                    <variants count="6">
+                        <minprice1 ccy="GBP">299.00</minprice1>
+                        <maxprice1 ccy="GBP">448.50</maxprice1>
+                    </variants>
+                    <attributes count="6">
+                        <attribute id="1" name="Description" type="TEXT"><![CDATA[Ideal greeting counter or workstation]]>
+                        </attribute>
+                        <attribute id="2" name="Features" type="TEXT"><![CDATA[Constructed from composite materials and flexible MDF tambour;Flat packed, easy to transport and quick to assemble;No tools required;Load bearing up to 75kgs approx;Unit has a full wrap around its perimeter;Wrap dimensions: 966mm high x 2700mm wide and 966mm high x 1045mm wide approx;Recommended visible size for front of unit: 966mm high x 950mm wide approx;Choice of Luxury Foam Backed Loop Nylon, Front Runner or Prelude fabric wraps &lt;A class="" href="https://ultima.sssecure.com/users/ULTIMA/files/Resource Centre/Colour Swatch.pdf" target=_blank&gt;&lt;FONT color=#0000ff&gt;(see colour swatch)&lt;/FONT&gt;&lt;/A&gt;; Beech and Aluminium tambour wraps also available;&lt;FONT color=#000000&gt;&lt;STRONG&gt;Recommended Carry Bag&lt;/STRONG&gt; &lt;FONT color=#ff0000&gt;AB115&lt;/FONT&gt;;&lt;STRONG&gt;Recommended Carry Case&lt;/STRONG&gt; &lt;/FONT&gt;&lt;FONT color=#ff0000&gt;AC312&lt;/FONT&gt;]]>
+                        </attribute>
+                        <attribute id="6" name="No Add-On Fabric Charge" type="BOOL"><![CDATA[1]]>
+                        </attribute>
+                        <attribute id="7" name="ChoiceOfFabricTypes" type="DROPDOWN" >
+                            <options>
+                                <option id="636" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Blaze</option>
+                                <option id="637" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Coal</option>
+                                <option id="638" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Cornflower</option>
+                                <option id="639" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Emerald Green</option>
+                                <option id="641" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Imperial Blue</option>
+                                <option id="1062" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">NO FABRIC</option>
+                                <option id="643" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Panama</option>
+                                <option id="645" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Silver</option>
+                                <option id="646" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Windsor</option>
+                                <option id="647" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Beige</option>
+                                <option id="648" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Black</option>
+                                <option id="649" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Bottle Green</option>
+                                <option id="650" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Dark Wine</option>
+                                <option id="651" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Emerald Green</option>
+                                <option id="652" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Gunmetal</option>
+                                <option id="653" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Hyacinth</option>
+                                <option id="654" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Ink Navy</option>
+                                <option id="655" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Medici</option>
+                                <option id="656" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">New Grey</option>
+                                <option id="1063" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">NO FABRIC</option>
+                                <option id="657" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Pacific</option>
+                                <option id="658" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Plasma Red</option>
+                                <option id="660" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Quince Green</option>
+                                <option id="662" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Saffron</option>
+                                <option id="663" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Steel Blue</option>
+                                <option id="669" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Aegean</option>
+                                <option id="670" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Cobalt</option>
+                                <option id="672" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Eclipse</option>
+                                <option id="674" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Flame</option>
+                                <option id="675" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Forest</option>
+                                <option id="676" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Madison</option>
+                                <option id="1065" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">NO FABRIC</option>
+                                <option id="678" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Platinum</option>
+                                <option id="680" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Royal</option>
+                                <option id="682" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Steller</option>
+                            </options>
+                        </attribute>
+                        <attribute id="8" name="symbol_one" type="TEXT"><![CDATA[Modular]]>
+                        </attribute>
+                        <attribute id="9" name="symbol_two" type="TEXT"><![CDATA[10 Year Guarantee]]>
+                        </attribute>
+                    </attributes>
+                </item>
+                <item id="1057" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=1057">
+                    <code>PK191</code>
+                    <title>Data Pod - Standard &amp; Pro</title>
+                    <image1 href="http://www.ultimadisplays.co.uk/images/Physique/PK191_Data_Pod.jpg">
+                        <language code="EN" name="English"/>
+                        <folder>images/Physique</folder>
+                        <filename>PK191_Data_Pod.jpg</filename>
+                    </image1>
+                    <price1 ccy="GBP">275.00</price1>
+                    <variants count="18">
+                        <minprice1 ccy="GBP">275.00</minprice1>
+                        <maxprice1 ccy="GBP">350.00</maxprice1>
+                    </variants>
+                    <attributes count="6">
+                        <attribute id="1" name="Description" type="TEXT"><![CDATA[Data Pod is a stylish workstation constructed from MDF with high quality finish thermoformed laminated tops.]]>
+                        </attribute>
+                        <attribute id="2" name="Features" type="TEXT"><![CDATA[Internal shelf available with Pro unit only;Constructed from composite materials and flexible MDF tambour;Flat packed, easy to transport and quick to assemble;No tools required;Load bearing up to 75kgs approx;Tops are available in Birch, Black or Silver thermoformed finishes;Choice of Luxury Foam Backed Loop Nylon, Front Runner or Prelude fabric wrap colours;Beech and Aluminium tambour wraps also available;AB138B and AB120A carry bags included;Standard LCD bracket included]]>
+                        </attribute>
+                        <attribute id="6" name="No Add-On Fabric Charge" type="BOOL"><![CDATA[1]]>
+                        </attribute>
+                        <attribute id="7" name="ChoiceOfFabricTypes" type="DROPDOWN" >
+                            <options>
+                                <option id="636" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Blaze</option>
+                                <option id="637" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Coal</option>
+                                <option id="638" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Cornflower</option>
+                                <option id="639" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Emerald Green</option>
+                                <option id="641" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Imperial Blue</option>
+                                <option id="1062" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">NO FABRIC</option>
+                                <option id="643" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Panama</option>
+                                <option id="645" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Silver</option>
+                                <option id="646" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Windsor</option>
+                                <option id="647" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Beige</option>
+                                <option id="648" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Black</option>
+                                <option id="649" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Bottle Green</option>
+                                <option id="650" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Dark Wine</option>
+                                <option id="651" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Emerald Green</option>
+                                <option id="652" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Gunmetal</option>
+                                <option id="653" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Hyacinth</option>
+                                <option id="654" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Ink Navy</option>
+                                <option id="655" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Medici</option>
+                                <option id="656" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">New Grey</option>
+                                <option id="1063" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">NO FABRIC</option>
+                                <option id="657" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Pacific</option>
+                                <option id="658" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Plasma Red</option>
+                                <option id="660" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Quince Green</option>
+                                <option id="662" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Saffron</option>
+                                <option id="663" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Steel Blue</option>
+                                <option id="669" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Aegean</option>
+                                <option id="670" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Cobalt</option>
+                                <option id="672" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Eclipse</option>
+                                <option id="674" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Flame</option>
+                                <option id="675" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Forest</option>
+                                <option id="676" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Madison</option>
+                                <option id="1065" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">NO FABRIC</option>
+                                <option id="678" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Platinum</option>
+                                <option id="680" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Royal</option>
+                                <option id="682" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Steller</option>
+                            </options>
+                        </attribute>
+                        <attribute id="8" name="symbol_one" type="TEXT"><![CDATA[Modular]]>
+                        </attribute>
+                        <attribute id="9" name="symbol_two" type="TEXT"><![CDATA[10 Year Guarantee]]>
+                        </attribute>
+                    </attributes>
+                </item>
+                <item id="383" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=383">
+                    <code>PK129/PK131/PK133</code>
+                    <title>Display Plinths - Multi Height Nests</title>
+                    <image1 href="http://www.ultimadisplays.co.uk/images/Physique/Multi_Height_Nests.jpg"></image1>
+                    <price1 ccy="GBP">0.00</price1>
+                    <variants count="18">
+                        <minprice1 ccy="GBP">335.00</minprice1>
+                        <maxprice1 ccy="GBP">425.00</maxprice1>
+                    </variants>
+                    <attributes count="5">
+                        <attribute id="1" name="Description" type="TEXT"><![CDATA[Multi-functional circular display plinths]]>
+                        </attribute>
+                        <attribute id="2" name="Features" type="TEXT"><![CDATA[Ideal for product display;Available in 3 diameters: 400mm, 600mm, 750mm and 3 heights per set;Each of the lower height plinths can be placed anywhere around the tallest plinth;Constructed from composite materials and flexible MDF tambour;Flat packed, easy to transport and quick to assemble;Load bearing up to 75kgs approx;Choice of Luxury Foam Backed Loop Nylon, Front Runner or Prelude fabric wraps &lt;A class="" href="https://ultima.sssecure.com/users/ULTIMA/files/Resource Centre/Colour Swatch.pdf" target=_blank&gt;(see colour swatch)&lt;/A&gt;;Beech and Aluminium tambour wraps also available;Choice of Black or Beech tops;&lt;FONT color=#ff0000&gt;Individual plinths can be supplied in different colours, please state colour combinations when ordering&lt;/FONT&gt;;&lt;STRONG&gt;Recommended Carry bags&lt;/STRONG&gt; 750dia: AB198 and AB197, 600dia: AB109 and AB115, 400dia: AB199 and AB174; &lt;STRONG&gt;Recommended Carry cases&lt;/STRONG&gt; 750dia: AC454 and AC455, 600dia: AC308 and AC342, 400dia: AC453 and AC452]]>
+                        </attribute>
+                        <attribute id="6" name="No Add-On Fabric Charge" type="BOOL"><![CDATA[1]]>
+                        </attribute>
+                        <attribute id="8" name="symbol_one" type="TEXT"><![CDATA[Modular]]>
+                        </attribute>
+                        <attribute id="9" name="symbol_two" type="TEXT"><![CDATA[10 Year Guarantee]]>
+                        </attribute>
+                    </attributes>
+                </item>
+                <item id="387" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=387">
+                    <code>PK161 / PK186</code>
+                    <title>Double D - Physique Freestyle</title>
+                    <image1 href="http://www.ultimadisplays.co.uk/images/Physique/Double_D_PK161.jpg"></image1>
+                    <price1 ccy="GBP">0.00</price1>
+                    <variants count="12">
+                        <minprice1 ccy="GBP">295.00</minprice1>
+                        <maxprice1 ccy="GBP">442.50</maxprice1>
+                    </variants>
+                    <attributes count="6">
+                        <attribute id="1" name="Description" type="TEXT"><![CDATA[Multi-function popular style workstation]]>
+                        </attribute>
+                        <attribute id="2" name="Features" type="TEXT"><![CDATA[Constructed from composite materials and flexible MDF tambour;Flat packed, easy to transport and quick to assemble;Choice of full wrap or kneehole styles;NB If a lockable door is required specify the Full wrap style unit;Full wrap dimensions: 966mm high x 2525mm wide approx;Kneehole wrap dimensions: 966mm high x 2700mm wide approx;Recommended visible size for front of unit: 966mm high x 950mm wide approx;No tools required;Load bearing up to 75kgs approx;Choice of Luxury Foam Backed Loop Nylon, Front Runner or Prelude fabric wraps &lt;A class="" href="https://ultima.sssecure.com/users/ULTIMA/files/Resource Centre/Colour Swatch.pdf" target=_blank&gt;(see colour swatch)&lt;/A&gt;;Beech and Aluminium tambour wraps also available;&lt;STRONG&gt;Recommended Carry Bag&lt;/STRONG&gt; &lt;FONT color=#ff0000&gt;AB112A&lt;/FONT&gt;&lt;FONT color=#000000&gt;;&lt;STRONG&gt;Recommended Carry Case&lt;/STRONG&gt;&lt;/FONT&gt;&lt;FONT color=#ff0000&gt; AC311&lt;/FONT&gt;]]>
+                        </attribute>
+                        <attribute id="6" name="No Add-On Fabric Charge" type="BOOL"><![CDATA[1]]>
+                        </attribute>
+                        <attribute id="7" name="ChoiceOfFabricTypes" type="DROPDOWN" >
+                            <options>
+                                <option id="636" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Blaze</option>
+                                <option id="637" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Coal</option>
+                                <option id="638" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Cornflower</option>
+                                <option id="639" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Emerald Green</option>
+                                <option id="641" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Imperial Blue</option>
+                                <option id="1062" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">NO FABRIC</option>
+                                <option id="643" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Panama</option>
+                                <option id="645" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Silver</option>
+                                <option id="646" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Windsor</option>
+                                <option id="647" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Beige</option>
+                                <option id="648" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Black</option>
+                                <option id="649" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Bottle Green</option>
+                                <option id="650" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Dark Wine</option>
+                                <option id="651" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Emerald Green</option>
+                                <option id="652" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Gunmetal</option>
+                                <option id="653" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Hyacinth</option>
+                                <option id="654" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Ink Navy</option>
+                                <option id="655" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Medici</option>
+                                <option id="656" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">New Grey</option>
+                                <option id="1063" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">NO FABRIC</option>
+                                <option id="657" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Pacific</option>
+                                <option id="658" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Plasma Red</option>
+                                <option id="660" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Quince Green</option>
+                                <option id="662" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Saffron</option>
+                                <option id="663" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Steel Blue</option>
+                                <option id="669" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Aegean</option>
+                                <option id="670" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Cobalt</option>
+                                <option id="672" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Eclipse</option>
+                                <option id="674" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Flame</option>
+                                <option id="675" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Forest</option>
+                                <option id="676" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Madison</option>
+                                <option id="1065" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">NO FABRIC</option>
+                                <option id="678" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Platinum</option>
+                                <option id="680" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Royal</option>
+                                <option id="682" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Steller</option>
+                            </options>
+                        </attribute>
+                        <attribute id="8" name="symbol_one" type="TEXT"><![CDATA[Modular]]>
+                        </attribute>
+                        <attribute id="9" name="symbol_two" type="TEXT"><![CDATA[10 Year Guarantee]]>
+                        </attribute>
+                    </attributes>
+                </item>
+                <item id="390" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=390">
+                    <code>PK152</code>
+                    <title>Eclipse - Physique Freestyle</title>
+                    <image1 href="http://www.ultimadisplays.co.uk/images/Physique/Eclipse_PK152.jpg"></image1>
+                    <price1 ccy="GBP">0.00</price1>
+                    <variants count="6">
+                        <minprice1 ccy="GBP">295.00</minprice1>
+                        <maxprice1 ccy="GBP">442.50</maxprice1>
+                    </variants>
+                    <attributes count="6">
+                        <attribute id="1" name="Description" type="TEXT"><![CDATA[Ideal for greeting counter, workstation or product display unit]]>
+                        </attribute>
+                        <attribute id="2" name="Features" type="TEXT"><![CDATA[Constructed from composite materials and flexible MDF tambour;Flat packed, easy to transport and quick to assemble;No tools required;Load bearing up to 75kgs approx;Choice of Luxury Foam Backed Loop Nylon, Front Runner or Prelude fabric wraps &lt;A class="" href="files/Resource Centre/Colour Swatch.pdf" target=_blank&gt;&lt;FONT color=#0000ff&gt;(see colour swatch)&lt;/FONT&gt;&lt;/A&gt;;Beech and Aluminium tambour wraps also available;Unit has a full wrap around its perimeter;&lt;FONT color=#000000&gt;&lt;STRONG&gt;Recommended Carry Bag&lt;/STRONG&gt; &lt;FONT color=#ff0000&gt;AB112A&lt;/FONT&gt;&lt;/FONT&gt;&lt;FONT color=#000000&gt;;&lt;STRONG&gt;Recommended Carry Case&lt;/STRONG&gt; &lt;/FONT&gt;&lt;FONT color=#ff0000&gt;AC311&lt;/FONT&gt;]]>
+                        </attribute>
+                        <attribute id="6" name="No Add-On Fabric Charge" type="BOOL"><![CDATA[1]]>
+                        </attribute>
+                        <attribute id="7" name="ChoiceOfFabricTypes" type="DROPDOWN" >
+                            <options>
+                                <option id="636" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Blaze</option>
+                                <option id="637" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Coal</option>
+                                <option id="638" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Cornflower</option>
+                                <option id="639" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Emerald Green</option>
+                                <option id="641" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Imperial Blue</option>
+                                <option id="1062" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">NO FABRIC</option>
+                                <option id="643" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Panama</option>
+                                <option id="645" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Silver</option>
+                                <option id="646" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Windsor</option>
+                                <option id="647" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Beige</option>
+                                <option id="648" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Black</option>
+                                <option id="649" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Bottle Green</option>
+                                <option id="650" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Dark Wine</option>
+                                <option id="651" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Emerald Green</option>
+                                <option id="652" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Gunmetal</option>
+                                <option id="653" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Hyacinth</option>
+                                <option id="654" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Ink Navy</option>
+                                <option id="655" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Medici</option>
+                                <option id="656" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">New Grey</option>
+                                <option id="1063" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">NO FABRIC</option>
+                                <option id="657" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Pacific</option>
+                                <option id="658" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Plasma Red</option>
+                                <option id="660" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Quince Green</option>
+                                <option id="662" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Saffron</option>
+                                <option id="663" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Steel Blue</option>
+                                <option id="669" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Aegean</option>
+                                <option id="670" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Cobalt</option>
+                                <option id="672" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Eclipse</option>
+                                <option id="674" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Flame</option>
+                                <option id="675" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Forest</option>
+                                <option id="676" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Madison</option>
+                                <option id="1065" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">NO FABRIC</option>
+                                <option id="678" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Platinum</option>
+                                <option id="680" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Royal</option>
+                                <option id="682" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Steller</option>
+                            </options>
+                        </attribute>
+                        <attribute id="8" name="symbol_one" type="TEXT"><![CDATA[Modular]]>
+                        </attribute>
+                        <attribute id="9" name="symbol_two" type="TEXT"><![CDATA[10 Year Guarantee]]>
+                        </attribute>
+                    </attributes>
+                </item>
+                <item id="391" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=391">
+                    <code>PK182</code>
+                    <title>Elan - Physique Freestyle</title>
+                    <image1 href="http://www.ultimadisplays.co.uk/images/Physique/Elan_PK182.jpg"></image1>
+                    <price1 ccy="GBP">0.00</price1>
+                    <variants count="6">
+                        <minprice1 ccy="GBP">325.00</minprice1>
+                        <maxprice1 ccy="GBP">487.50</maxprice1>
+                    </variants>
+                    <attributes count="6">
+                        <attribute id="1" name="Description" type="TEXT"><![CDATA[Distinctive styling combined with ease of use make the Elan unit an ideal addition to any Exhibition stand.]]>
+                        </attribute>
+                        <attribute id="2" name="Features" type="TEXT"><![CDATA[Constructed from composite materials and flexible MDF tambour;Flat packed, easy to transport and quick to assemble;No tools required;Load bearing up to 75kgs approx;Choice of Luxury Foam Backed Loop Nylon, Front Runner or Prelude fabric wraps &lt;A class="" href="files/Resource Centre/Colour Swatch.pdf" target=_blank&gt;(see colour swatch)&lt;/A&gt;&#160;Beech and Aluminium tambour wraps also available;Unit has a full wrap around its perimeter;&lt;STRONG&gt;Recommended Carry Bag&lt;/STRONG&gt; &lt;FONT color=#ff0000&gt;AB176&lt;/FONT&gt;&lt;FONT color=#000000&gt;;&lt;STRONG&gt;Recommended Carry Case&lt;/STRONG&gt;&lt;/FONT&gt;&lt;FONT color=#ff0000&gt; AC347A&lt;/FONT&gt;]]>
+                        </attribute>
+                        <attribute id="6" name="No Add-On Fabric Charge" type="BOOL"><![CDATA[1]]>
+                        </attribute>
+                        <attribute id="7" name="ChoiceOfFabricTypes" type="DROPDOWN" >
+                            <options>
+                                <option id="636" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Blaze</option>
+                                <option id="637" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Coal</option>
+                                <option id="638" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Cornflower</option>
+                                <option id="639" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Emerald Green</option>
+                                <option id="641" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Imperial Blue</option>
+                                <option id="1062" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">NO FABRIC</option>
+                                <option id="643" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Panama</option>
+                                <option id="645" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Silver</option>
+                                <option id="646" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Windsor</option>
+                                <option id="647" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Beige</option>
+                                <option id="648" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Black</option>
+                                <option id="649" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Bottle Green</option>
+                                <option id="650" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Dark Wine</option>
+                                <option id="651" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Emerald Green</option>
+                                <option id="652" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Gunmetal</option>
+                                <option id="653" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Hyacinth</option>
+                                <option id="654" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Ink Navy</option>
+                                <option id="655" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Medici</option>
+                                <option id="656" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">New Grey</option>
+                                <option id="1063" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">NO FABRIC</option>
+                                <option id="657" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Pacific</option>
+                                <option id="658" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Plasma Red</option>
+                                <option id="660" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Quince Green</option>
+                                <option id="662" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Saffron</option>
+                                <option id="663" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Steel Blue</option>
+                                <option id="669" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Aegean</option>
+                                <option id="670" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Cobalt</option>
+                                <option id="672" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Eclipse</option>
+                                <option id="674" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Flame</option>
+                                <option id="675" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Forest</option>
+                                <option id="676" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Madison</option>
+                                <option id="1065" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">NO FABRIC</option>
+                                <option id="678" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Platinum</option>
+                                <option id="680" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Royal</option>
+                                <option id="682" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Steller</option>
+                            </options>
+                        </attribute>
+                        <attribute id="8" name="symbol_one" type="TEXT"><![CDATA[Modular]]>
+                        </attribute>
+                        <attribute id="9" name="symbol_two" type="TEXT"><![CDATA[10 Year Guarantee]]>
+                        </attribute>
+                    </attributes>
+                </item>
+                <item id="1067" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=1067">
+                    <code>PK192</code>
+                    <title>Lecturn - Standard &amp; Pro - Physique Freestyle</title>
+                    <image1 href="http://www.ultimadisplays.co.uk/images/Physique/PK192_Lecturn.jpg">
+                        <language code="EN" name="English"/>
+                        <folder>images/Physique</folder>
+                        <filename>PK192_Lecturn.jpg</filename>
+                    </image1>
+                    <price1 ccy="GBP">0.00</price1>
+                    <variants count="18">
+                        <minprice1 ccy="GBP">275.00</minprice1>
+                        <maxprice1 ccy="GBP">325.00</maxprice1>
+                    </variants>
+                    <attributes count="6">
+                        <attribute id="1" name="Description" type="TEXT"><![CDATA[Lecturn is a stylish presenter unit from MDF with high quality finish thermoformed laminated tops.]]>
+                        </attribute>
+                        <attribute id="2" name="Features" type="TEXT"><![CDATA[Constructed from composite materials and flexible MDF tambour;Flat packed, easy to transport and quick to assemble;Allen keys supplied;Tops are available in Beech, Black or Silver thermoformed finishes;Choice of Luxury Foam Backed Loop Nylon,Front Runner or Prelude fabric wrap colours;Acrylic angled top shelf;Internal shelf on the Pro unit only;Beech and Aluminium tambour wraps also available;Overall size: 1300mm (h) x 665mm (w) x 480mm (d);Wrap dimensions (Standard): 1060mm (h) x 1455mm (w);Wrap dimensions (Pro): 840mm (h) x 1455mm (w) AND 210mm (h) x 1455mm (w)]]>
+                        </attribute>
+                        <attribute id="6" name="No Add-On Fabric Charge" type="BOOL"><![CDATA[1]]>
+                        </attribute>
+                        <attribute id="7" name="ChoiceOfFabricTypes" type="DROPDOWN" >
+                            <options>
+                                <option id="636" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Blaze</option>
+                                <option id="637" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Coal</option>
+                                <option id="638" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Cornflower</option>
+                                <option id="639" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Emerald Green</option>
+                                <option id="641" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Imperial Blue</option>
+                                <option id="1062" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">NO FABRIC</option>
+                                <option id="643" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Panama</option>
+                                <option id="645" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Silver</option>
+                                <option id="646" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Windsor</option>
+                                <option id="647" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Beige</option>
+                                <option id="648" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Black</option>
+                                <option id="649" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Bottle Green</option>
+                                <option id="650" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Dark Wine</option>
+                                <option id="651" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Emerald Green</option>
+                                <option id="652" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Gunmetal</option>
+                                <option id="653" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Hyacinth</option>
+                                <option id="654" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Ink Navy</option>
+                                <option id="655" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Medici</option>
+                                <option id="656" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">New Grey</option>
+                                <option id="1063" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">NO FABRIC</option>
+                                <option id="657" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Pacific</option>
+                                <option id="658" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Plasma Red</option>
+                                <option id="660" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Quince Green</option>
+                                <option id="662" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Saffron</option>
+                                <option id="663" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Steel Blue</option>
+                                <option id="669" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Aegean</option>
+                                <option id="670" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Cobalt</option>
+                                <option id="672" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Eclipse</option>
+                                <option id="674" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Flame</option>
+                                <option id="675" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Forest</option>
+                                <option id="676" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Madison</option>
+                                <option id="1065" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">NO FABRIC</option>
+                                <option id="678" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Platinum</option>
+                                <option id="680" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Royal</option>
+                                <option id="682" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Steller</option>
+                            </options>
+                        </attribute>
+                        <attribute id="8" name="symbol_one" type="TEXT"><![CDATA[Modular]]>
+                        </attribute>
+                        <attribute id="9" name="symbol_two" type="TEXT"><![CDATA[10 Year Guarantee]]>
+                        </attribute>
+                    </attributes>
+                </item>
+                <item id="981" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=981">
+                    <code>PK113</code>
+                    <title>Luna</title>
+                    <image1 href="http://www.ultimadisplays.co.uk/images/Physique/Luna.jpg"></image1>
+                    <price1 ccy="GBP">0.00</price1>
+                    <variants count="9">
+                        <minprice1 ccy="GBP">199.00</minprice1>
+                        <maxprice1 ccy="GBP">199.00</maxprice1>
+                    </variants>
+                    <attributes count="6">
+                        <attribute id="1" name="Description" type="TEXT"><![CDATA[A very lightweight and attractive workstation with fine-grade fluted plastic tambour for a smoother finish.The plastic tambour is ideal for application of laminate graphics. Luna is perfect for roadshows or where portability is important.]]>
+                        </attribute>
+                        <attribute id="2" name="Features" type="TEXT"><![CDATA[Flat pack furniture constructed from composite materials and fluted plastic tambour;No tools assembly, unit packs flat for easy transportation;Complete with internal shelf &amp; storage area;Fluted plastic tambour wrap is available in black, white or covered with Prelude fabric &lt;A class="" href="files/Resource Centre/Prelude.pdf" target=_blank&gt;(see colour swatch);&lt;/A&gt;Tambour is suitable for direct printing or mounting;Top and internal shelf available in Birch, Silver or Black thermoformed finishes;Carry bags or Carry cases are available as extra cost options;&lt;STRONG&gt;Recommended Carry Bag&lt;/STRONG&gt; &lt;FONT color=#ff0000&gt;CBB-005&lt;/FONT&gt; &lt;STRONG&gt;;Recommended Carry Case&lt;/STRONG&gt; &lt;FONT color=#ff0000&gt;AC311&lt;/FONT&gt;]]>
+                        </attribute>
+                        <attribute id="6" name="No Add-On Fabric Charge" type="BOOL"><![CDATA[1]]>
+                        </attribute>
+                        <attribute id="7" name="ChoiceOfFabricTypes" type="DROPDOWN" >
+                            <options>
+                                <option id="669" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Aegean</option>
+                                <option id="670" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Cobalt</option>
+                                <option id="672" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Eclipse</option>
+                                <option id="674" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Flame</option>
+                                <option id="675" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Forest</option>
+                                <option id="676" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Madison</option>
+                                <option id="1065" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">NO FABRIC</option>
+                                <option id="678" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Platinum</option>
+                                <option id="680" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Royal</option>
+                                <option id="682" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Steller</option>
+                            </options>
+                        </attribute>
+                        <attribute id="8" name="symbol_one" type="TEXT"><![CDATA[Modular]]>
+                        </attribute>
+                        <attribute id="9" name="symbol_two" type="TEXT"><![CDATA[10 Year Guarantee]]>
+                        </attribute>
+                    </attributes>
+                </item>
+                <item id="1103" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=1103">
+                    <code>PK190</code>
+                    <title>Mercury</title>
+                    <image1 href="http://www.ultimadisplays.co.uk/images/Physique/Mercury_big.jpg">
+                        <language code="EN" name="English"/>
+                        <folder>images/Physique</folder>
+                        <filename>Mercury_big.jpg</filename>
+                    </image1>
+                    <price1 ccy="GBP">399.00</price1>
+                    <variants count="0"></variants>
+                    <attributes count="5">
+                        <attribute id="1" name="Description" type="TEXT"><![CDATA[Mercury is a stylish workstation or greeting counter constructed from MDF with high quality finish thermoformed laminated tops.]]>
+                        </attribute>
+                        <attribute id="2" name="Features" type="TEXT"><![CDATA[Constructed from composite materials and flexible MDF tambour;Flat packed, easy to transport and quick to assemble;Allen key supplied;Load bearing up to 75kgs;Tops are available in Birch, Black or Silver thermoformed finishes;Choice of Luxury Foam Backed Loop Nylon,Front Runner or Prelude fabric wrap colours;Shelf on the Mercury Pro;Can be used as an open or closed back unit;Beech and Aluminium tambour wraps also available;Cable management port included]]>
+                        </attribute>
+                        <attribute id="7" name="ChoiceOfFabricTypes" type="DROPDOWN" >
+                            <options>
+                                <option id="636" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Blaze</option>
+                                <option id="637" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Coal</option>
+                                <option id="638" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Cornflower</option>
+                                <option id="639" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Emerald Green</option>
+                                <option id="641" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Imperial Blue</option>
+                                <option id="1062" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">NO FABRIC</option>
+                                <option id="643" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Panama</option>
+                                <option id="645" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Silver</option>
+                                <option id="646" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Windsor</option>
+                                <option id="647" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Beige</option>
+                                <option id="648" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Black</option>
+                                <option id="649" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Bottle Green</option>
+                                <option id="650" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Dark Wine</option>
+                                <option id="651" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Emerald Green</option>
+                                <option id="652" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Gunmetal</option>
+                                <option id="653" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Hyacinth</option>
+                                <option id="654" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Ink Navy</option>
+                                <option id="655" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Medici</option>
+                                <option id="656" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">New Grey</option>
+                                <option id="1063" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">NO FABRIC</option>
+                                <option id="657" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Pacific</option>
+                                <option id="658" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Plasma Red</option>
+                                <option id="660" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Quince Green</option>
+                                <option id="662" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Saffron</option>
+                                <option id="663" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Steel Blue</option>
+                                <option id="669" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Aegean</option>
+                                <option id="670" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Cobalt</option>
+                                <option id="672" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Eclipse</option>
+                                <option id="674" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Flame</option>
+                                <option id="675" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Forest</option>
+                                <option id="676" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Madison</option>
+                                <option id="1065" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">NO FABRIC</option>
+                                <option id="678" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Platinum</option>
+                                <option id="680" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Royal</option>
+                                <option id="682" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Steller</option>
+                                <option id="684" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="163"  categoryname="Standard Loop Nylon">BA Navy</option>
+                                <option id="685" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="163"  categoryname="Standard Loop Nylon">Black</option>
+                                <option id="686" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="163"  categoryname="Standard Loop Nylon">Blueberry Blue</option>
+                                <option id="723" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="163"  categoryname="Standard Loop Nylon">Bottle Green</option>
+                                <option id="687" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="163"  categoryname="Standard Loop Nylon">Burgundy</option>
+                                <option id="688" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="163"  categoryname="Standard Loop Nylon">Cherry Red</option>
+                                <option id="689" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="163"  categoryname="Standard Loop Nylon">Cornflower Blue</option>
+                                <option id="690" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="163"  categoryname="Standard Loop Nylon">Dove Grey</option>
+                                <option id="691" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="163"  categoryname="Standard Loop Nylon">Emerald Green</option>
+                                <option id="694" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="163"  categoryname="Standard Loop Nylon">New Silver Grey</option>
+                                <option id="1066" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="163"  categoryname="Standard Loop Nylon">NO FABRIC</option>
+                                <option id="695" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="163"  categoryname="Standard Loop Nylon">Primrose</option>
+                                <option id="696" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="163"  categoryname="Standard Loop Nylon">Quince Green</option>
+                                <option id="697" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="163"  categoryname="Standard Loop Nylon">Regal Blue</option>
+                                <option id="698" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="163"  categoryname="Standard Loop Nylon">Royal Blue</option>
+                                <option id="700" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="163"  categoryname="Standard Loop Nylon">Wedgewood Blue</option>
+                            </options>
+                        </attribute>
+                        <attribute id="8" name="symbol_one" type="TEXT"><![CDATA[Made to Order]]>
+                        </attribute>
+                        <attribute id="9" name="symbol_two" type="TEXT"><![CDATA[10 Year Guarantee]]>
+                        </attribute>
+                    </attributes>
+                </item>
+                <item id="397" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=397">
+                    <code>PK121/118/115/127</code>
+                    <title>Round Display Plinths - Physique Freestyle</title>
+                    <image1 href="http://www.ultimadisplays.co.uk/images/Physique/Round_Plinth.jpg"></image1>
+                    <price1 ccy="GBP">0.00</price1>
+                    <variants count="24">
+                        <minprice1 ccy="GBP">125.00</minprice1>
+                        <maxprice1 ccy="GBP">264.00</maxprice1>
+                    </variants>
+                    <attributes count="6">
+                        <attribute id="1" name="Description" type="TEXT"><![CDATA[Multi-function circular display plinths ideal for product display]]>
+                        </attribute>
+                        <attribute id="2" name="Features" type="TEXT"><![CDATA[Choice of two diameters and four heights;Constructed from composite materials and flexible MDF tambour;Flat packed, easy to transport and quick to assemble;No tools required;Load bearing up to 75kgs approx;Choice of Luxury Foam Backed Loop Nylon, Front Runner or Prelude fabric wraps &lt;A class="" href="files/Resource Centre/Colour Swatch.pdf" target=_blank&gt;(see colour swatch)&lt;/A&gt;;Beech and Aluminium tambour wraps also available;Plinths have a full wrap around their perimeter]]>
+                        </attribute>
+                        <attribute id="6" name="No Add-On Fabric Charge" type="BOOL"><![CDATA[1]]>
+                        </attribute>
+                        <attribute id="7" name="ChoiceOfFabricTypes" type="DROPDOWN" >
+                            <options>
+                                <option id="636" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Blaze</option>
+                                <option id="637" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Coal</option>
+                                <option id="638" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Cornflower</option>
+                                <option id="639" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Emerald Green</option>
+                                <option id="641" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Imperial Blue</option>
+                                <option id="1062" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">NO FABRIC</option>
+                                <option id="643" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Panama</option>
+                                <option id="645" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Silver</option>
+                                <option id="646" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Windsor</option>
+                                <option id="647" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Beige</option>
+                                <option id="648" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Black</option>
+                                <option id="649" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Bottle Green</option>
+                                <option id="650" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Dark Wine</option>
+                                <option id="651" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Emerald Green</option>
+                                <option id="652" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Gunmetal</option>
+                                <option id="653" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Hyacinth</option>
+                                <option id="654" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Ink Navy</option>
+                                <option id="655" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Medici</option>
+                                <option id="656" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">New Grey</option>
+                                <option id="1063" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">NO FABRIC</option>
+                                <option id="657" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Pacific</option>
+                                <option id="658" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Plasma Red</option>
+                                <option id="660" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Quince Green</option>
+                                <option id="662" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Saffron</option>
+                                <option id="663" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Steel Blue</option>
+                                <option id="669" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Aegean</option>
+                                <option id="670" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Cobalt</option>
+                                <option id="672" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Eclipse</option>
+                                <option id="674" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Flame</option>
+                                <option id="675" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Forest</option>
+                                <option id="676" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Madison</option>
+                                <option id="1065" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">NO FABRIC</option>
+                                <option id="678" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Platinum</option>
+                                <option id="680" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Royal</option>
+                                <option id="682" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Steller</option>
+                            </options>
+                        </attribute>
+                        <attribute id="8" name="symbol_one" type="TEXT"><![CDATA[Modular]]>
+                        </attribute>
+                        <attribute id="9" name="symbol_two" type="TEXT"><![CDATA[10 Year Guarantee]]>
+                        </attribute>
+                    </attributes>
+                </item>
+                <item id="1041" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=1041">
+                    <code>PK188</code>
+                    <title>Saturn - Physique Freestyle</title>
+                    <image1 href="http://www.ultimadisplays.co.uk/images/Physique/PK188_Saturn.jpg"></image1>
+                    <price1 ccy="GBP">350.00</price1>
+                    <variants count="9">
+                        <minprice1 ccy="GBP">350.00</minprice1>
+                        <maxprice1 ccy="GBP">525.00</maxprice1>
+                    </variants>
+                    <attributes count="6">
+                        <attribute id="1" name="Description" type="TEXT"><![CDATA[Saturn is a stylish workstation or greeting counter constructed from MDF with high quality finish thermoformed laminated tops.]]>
+                        </attribute>
+                        <attribute id="2" name="Features" type="TEXT"><![CDATA[Elipse shaped design counter;A4 acrylic leaflet holder included;Constructed from composite materials and flexible MDF tambour;Flat packed, easy to transport and quick to assemble;Allen keys supplied;Load bearing up to 75kgs;Tops are available in Birch, Black or Silver thermoformed finishes;Choice of Luxury Foam Backed Loop Nylon, Front Runner, or Prelude fabric wrap options;Beech or Aluminium tambour wraps also available at an additional cost;Overall size: 1010mm (h) x 850mm (w) x 510mm (d);Wrap dimensions: 970mm (h) x 1370mm (w)]]>
+                        </attribute>
+                        <attribute id="6" name="No Add-On Fabric Charge" type="BOOL"><![CDATA[1]]>
+                        </attribute>
+                        <attribute id="7" name="ChoiceOfFabricTypes" type="DROPDOWN" >
+                            <options>
+                                <option id="636" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Blaze</option>
+                                <option id="637" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Coal</option>
+                                <option id="638" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Cornflower</option>
+                                <option id="639" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Emerald Green</option>
+                                <option id="641" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Imperial Blue</option>
+                                <option id="1062" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">NO FABRIC</option>
+                                <option id="643" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Panama</option>
+                                <option id="645" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Silver</option>
+                                <option id="646" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Windsor</option>
+                                <option id="647" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Beige</option>
+                                <option id="648" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Black</option>
+                                <option id="649" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Bottle Green</option>
+                                <option id="650" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Dark Wine</option>
+                                <option id="651" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Emerald Green</option>
+                                <option id="652" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Gunmetal</option>
+                                <option id="653" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Hyacinth</option>
+                                <option id="654" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Ink Navy</option>
+                                <option id="655" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Medici</option>
+                                <option id="656" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">New Grey</option>
+                                <option id="1063" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">NO FABRIC</option>
+                                <option id="657" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Pacific</option>
+                                <option id="658" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Plasma Red</option>
+                                <option id="660" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Quince Green</option>
+                                <option id="662" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Saffron</option>
+                                <option id="663" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Steel Blue</option>
+                                <option id="669" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Aegean</option>
+                                <option id="670" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Cobalt</option>
+                                <option id="672" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Eclipse</option>
+                                <option id="674" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Flame</option>
+                                <option id="675" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Forest</option>
+                                <option id="676" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Madison</option>
+                                <option id="1065" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">NO FABRIC</option>
+                                <option id="678" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Platinum</option>
+                                <option id="680" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Royal</option>
+                                <option id="682" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Steller</option>
+                            </options>
+                        </attribute>
+                        <attribute id="8" name="symbol_one" type="TEXT"><![CDATA[Modular]]>
+                        </attribute>
+                        <attribute id="9" name="symbol_two" type="TEXT"><![CDATA[10 Year Guarantee]]>
+                        </attribute>
+                    </attributes>
+                </item>
+                <item id="403" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=403">
+                    <code>PK181</code>
+                    <title>Urban - Physique Freestyle</title>
+                    <image1 href="http://www.ultimadisplays.co.uk/images/Physique/Urban_PK181.jpg"></image1>
+                    <price1 ccy="GBP">0.00</price1>
+                    <variants count="6">
+                        <minprice1 ccy="GBP">375.00</minprice1>
+                        <maxprice1 ccy="GBP">598.50</maxprice1>
+                    </variants>
+                    <attributes count="6">
+                        <attribute id="1" name="Description" type="TEXT"><![CDATA[Contemporary yet practical, the Urban unit is a useful workstation complete with clear
+acrylic shelf]]>
+                        </attribute>
+                        <attribute id="2" name="Features" type="TEXT"><![CDATA[Complete with clear acrylic shelf and 3 x 80mm Orbita stand-offs;Constructed from composite materials and flexible MDF tambour;Flat packed, easy to transport and quick to assemble;No tools required;Load bearing up to 75kgs approx;Choice of Luxury Foam Backed Loop Nylon, Front Runner or Prelude fabric wraps &lt;A class="" href="files/Resource Centre/Colour Swatch.pdf" target=_blank&gt;(see colour swatch)&lt;/A&gt;;Beech and Aluminium tambour wraps also available;Unit has a full wrap around its perimeter;&lt;STRONG&gt;Recommended Carry Bag&lt;/STRONG&gt; &lt;FONT color=#ff0000&gt;AB112A&lt;/FONT&gt;&lt;FONT color=#000000&gt;;&lt;/FONT&gt;&lt;FONT color=#ff0000&gt;&lt;FONT color=#000000&gt;&lt;STRONG&gt;Recommended Carry Case&lt;/STRONG&gt;&lt;/FONT&gt; AC311&lt;/FONT&gt;]]>
+                        </attribute>
+                        <attribute id="6" name="No Add-On Fabric Charge" type="BOOL"><![CDATA[1]]>
+                        </attribute>
+                        <attribute id="7" name="ChoiceOfFabricTypes" type="DROPDOWN" >
+                            <options>
+                                <option id="636" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Blaze</option>
+                                <option id="637" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Coal</option>
+                                <option id="638" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Cornflower</option>
+                                <option id="639" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Emerald Green</option>
+                                <option id="641" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Imperial Blue</option>
+                                <option id="1062" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">NO FABRIC</option>
+                                <option id="643" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Panama</option>
+                                <option id="645" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Silver</option>
+                                <option id="646" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="159"  categoryname="Front Runner">Windsor</option>
+                                <option id="647" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Beige</option>
+                                <option id="648" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Black</option>
+                                <option id="649" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Bottle Green</option>
+                                <option id="650" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Dark Wine</option>
+                                <option id="651" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Emerald Green</option>
+                                <option id="652" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Gunmetal</option>
+                                <option id="653" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Hyacinth</option>
+                                <option id="654" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Ink Navy</option>
+                                <option id="655" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Medici</option>
+                                <option id="656" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">New Grey</option>
+                                <option id="1063" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">NO FABRIC</option>
+                                <option id="657" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Pacific</option>
+                                <option id="658" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Plasma Red</option>
+                                <option id="660" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Quince Green</option>
+                                <option id="662" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Saffron</option>
+                                <option id="663" code="" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="160"  categoryname="Luxury Foam Backed Loop Nylon">Steel Blue</option>
+                                <option id="669" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Aegean</option>
+                                <option id="670" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Cobalt</option>
+                                <option id="672" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Eclipse</option>
+                                <option id="674" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Flame</option>
+                                <option id="675" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Forest</option>
+                                <option id="676" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Madison</option>
+                                <option id="1065" code="NO FABRIC" price1="0.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">NO FABRIC</option>
+                                <option id="678" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Platinum</option>
+                                <option id="680" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Royal</option>
+                                <option id="682" code="" price1="24.00"  price2="0.00"  price3="0.00"  price4="0.00"  price5="0.00" categoryid="162"  categoryname="Prelude">Steller</option>
+                            </options>
+                        </attribute>
+                        <attribute id="8" name="symbol_one" type="TEXT"><![CDATA[Modular]]>
+                        </attribute>
+                        <attribute id="9" name="symbol_two" type="TEXT"><![CDATA[10 Year Guarantee]]>
+                        </attribute>
+                    </attributes>
+                </item>
+            </items>
+        </category>
+    </ssxmlquery>
+</ssxml>

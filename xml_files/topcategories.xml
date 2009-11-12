@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssxml version="1.00">
+    <ssxmlquery name="topcategories" version="1.00" account="ULTIMA" profileuserid="3451" profileusercode="Collective Colour XML TEST" profileusername="Collective Colour XML TEST" profileuseremail="matt@collectivecolour.co.uk" request="000001" requestdt="2009-11-06 13:45:58" sessionid="53a185a8-a940-4e61-80b2-75f64eb51227">
+        <ssxmlparameters></ssxmlparameters>
+        <categories>
+            <category id="41" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=41">
+                <name>Accessories</name>
+                <fullfoldername>products/accessories/</fullfoldername>
+            </category>
+            <category id="3" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=3">
+                <name>Banner Stands</name>
+                <description>&lt;P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"&gt;&lt;SPAN lang=EN-GB style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 7.5pt"&gt;The Ultima banner range is the most extensive the in the market and offers a wide choice of sizes and design features. The range&lt;/SPAN&gt;&lt;SPAN lang=EN-GB style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-size: 7.5pt"&gt; &lt;/SPAN&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-ansi-language: EN-US"&gt;includes tension banners, roller and cassette banners, motorized rotating banners and outdoor banners; offering style and quality at very affordable prices. All our banners are reusable and most are supplied complete with carry bag. Our cassette banners have the additional advantage of removable graphic cassettes to enable rapid change of graphics - ideal for promotional campaigns and retail display.&lt;/SPAN&gt;&lt;SPAN style="FONT-FAMILY: Arial; mso-ansi-language: EN-US"&gt;&lt;?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;</description>
+                <fullfoldername>products/banner_stands/</fullfoldername>
+            </category>
+            <category id="27" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=27">
+                <name>Cases and Bags</name>
+                <fullfoldername>products/cases_and_bags/</fullfoldername>
+            </category>
+            <category id="99" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=99">
+                <name>Display and Signage</name>
+                <fullfoldername>products/display_and_signage/</fullfoldername>
+            </category>
+            <category id="71" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=71">
+                <name>Gantry</name>
+                <fullfoldername>products/gantry/</fullfoldername>
+            </category>
+            <category id="48" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=48">
+                <name>Graphic Pods and Lightboxes</name>
+                <fullfoldername>products/graphic_pods_and_lightboxes/</fullfoldername>
+            </category>
+            <category id="15" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=15">
+                <name>Lighting</name>
+                <fullfoldername>products/lighting/</fullfoldername>
+            </category>
+            <category id="195" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=195">
+                <name>Linear</name>
+                <fullfoldername>products/linear/</fullfoldername>
+            </category>
+            <category id="14" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=14">
+                <name>Literature Holders</name>
+                <fullfoldername>products/literature_holders/</fullfoldername>
+            </category>
+            <category id="37" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=37">
+                <name>Modular Panels and Exhibition Stands</name>
+                <fullfoldername>products/modular_panels_and_exhibition_stands/</fullfoldername>
+            </category>
+            <category id="98" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=98">
+                <name>Outdoor or Indoor Promotion Products</name>
+                <fullfoldername>products/outdoor_or_indoor_promotion_products/</fullfoldername>
+            </category>
+            <category id="17" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=17">
+                <name>Physique Portable Furniture</name>
+                <fullfoldername>products/physique_portable_furniture/</fullfoldername>
+            </category>
+            <category id="13" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=13">
+                <name>Pop-Ups</name>
+                <fullfoldername>products/pop_ups/</fullfoldername>
+            </category>
+            <category id="222" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=222">
+                <name>Spares</name>
+                <fullfoldername>products/spares/</fullfoldername>
+            </category>
+        </categories>
+    </ssxmlquery>
+</ssxml>

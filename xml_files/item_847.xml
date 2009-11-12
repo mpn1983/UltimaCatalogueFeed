@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssxml version="1.00">
+    <ssxmlquery name="item" version="1.00" account="ULTIMA" profileuserid="3451" profileusercode="Collective Colour XML TEST" profileusername="Collective Colour XML TEST" profileuseremail="matt@collectivecolour.co.uk" request="000001" requestdt="2009-11-06 14:22:00" sessionid="a136d2d5-3d53-407f-b0d0-3bc3c720d7df">
+        <ssxmlparameters>
+            <ssxmlparameter name="itemid">847</ssxmlparameter>
+        </ssxmlparameters>
+        <item id="847" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=847" >
+            <code>WH361</code>
+            <title>Breeze A3</title>
+            <foldername>breeze_wh360/itemid_847</foldername>
+            <category1 id="3" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=3">
+                <name>Banner Stands</name>
+                <path>Banner Stands</path>
+                <brand id="0" name="Common" />
+                <fullfoldername>products/banner_stands/</fullfoldername>
+            </category1>
+            <price1 ccy="GBP">12.00</price1>
+            <position>1</position>
+            <quantity>1</quantity>
+            <datetimeupdated>2009-01-15 10:29:23</datetimeupdated>
+            <image1 href="http://www.ultimadisplays.co.uk/images/iteme8471.jpg"></image1>
+            <image2 href="http://www.ultimadisplays.co.uk/images/Banner Stands/Breeze_back.jpg"></image2>
+            <image3 href="http://www.ultimadisplays.co.uk/images/Banner Stands/Breeze_insitu.jpg">
+                <caption>Ideal desktop banner</caption>
+            </image3>
+            <image4 href="http://www.ultimadisplays.co.uk/images/iteme8471.jpg"></image4>
+            <document1 href="http://www.ultimadisplays.co.uk/files/User Instructions/Banner Stands/Breeze V4..pdf">
+                <folder>files/User Instructions/Banner Stands</folder>
+                <filename>Breeze V4..pdf</filename>
+                <language code="EN" name="English"/>
+            </document1>
+            <language code="EN" name="English" />
+            <attributes count="4">
+                <attribute id="1" name="Description" type="TEXT"><![CDATA[Breeze is a desktop roller banner ideal for promotions and marketing giveaways]]>
+                </attribute>
+                <attribute id="2" name="Features" type="TEXT"><![CDATA[Retractable roller banner;400mm (h) x 297mm (w) visible graphic area (add 10mm to graphic length to allow for roller);Self adhesive top rail;Lightweight;Two piece support pole;Available in anodised silver;Quick to assemble and easy to use]]>
+                </attribute>
+                <attribute id="8" name="symbol_one" type="TEXT"><![CDATA[Modular]]>
+                </attribute>
+                <attribute id="9" name="symbol_two" type="TEXT"><![CDATA[1 Year Guarantee]]>
+                </attribute>
+            </attributes>
+        </item>
+    </ssxmlquery>
+</ssxml>

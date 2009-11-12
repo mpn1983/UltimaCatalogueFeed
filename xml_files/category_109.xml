@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssxml version="1.00">
+    <ssxmlquery name="category" version="1.00" account="ULTIMA" profileuserid="3451" profileusercode="Collective Colour XML TEST" profileusername="Collective Colour XML TEST" profileuseremail="matt@collectivecolour.co.uk" request="000001" requestdt="2009-11-06 14:11:02" sessionid="f81e43b0-4903-4b5d-b849-549c3c997f7d">
+        <ssxmlparameters>
+            <ssxmlparameter name="categoryid">109</ssxmlparameter>
+        </ssxmlparameters>
+        <category id="109" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=109">
+            <name>Outdoor or Indoor Promotion Products</name>
+            <parentcategory1 id="41" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=41">
+                <name>Accessories</name>
+                <path>Accessories</path>
+                <brand id="0" name="Common" />
+            </parentcategory1>
+            <image1 href="http://www.ultimadisplays.co.uk/images/PromotorUnits.jpg"></image1>
+            <datetimestart>2005-09-30 15:50:00</datetimestart>
+            <language code="EN" name="English" />
+            <position>1</position>
+            <foldername>outdoor_or_indoor_promotion_products</foldername>
+        </category>
+    </ssxmlquery>
+</ssxml>

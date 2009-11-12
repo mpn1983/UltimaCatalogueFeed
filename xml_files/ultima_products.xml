@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<root>
+    <top_categories>
+        <category name="accessories" id="41" feed_url="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=41">
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/Accessories_Icon.jpg" position="1"/>
+            </images>
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/Accessories_Icon.jpg" position="1"/>
+            </images>
+        </category>
+        <category name="banner_stands" id="3" feed_url="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=3">
+            <description>&lt;P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"&gt;&lt;SPAN lang=EN-GB style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 7.5pt"&gt;The Ultima banner range is the most extensive the in the market and offers a wide choice of sizes and design features. The range&lt;/SPAN&gt;&lt;SPAN lang=EN-GB style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-size: 7.5pt"&gt; &lt;/SPAN&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-ansi-language: EN-US"&gt;includes tension banners, roller and cassette banners, motorized rotating banners and outdoor banners; offering style and quality at very affordable prices. All our banners are reusable and most are supplied complete with carry bag. Our cassette banners have the additional advantage of removable graphic cassettes to enable rapid change of graphics - ideal for promotional campaigns and retail display.&lt;/SPAN&gt;&lt;SPAN style="FONT-FAMILY: Arial; mso-ansi-language: EN-US"&gt;&lt;?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;</description>
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/BannerStands.jpg" position="1"/>
+            </images>
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/BannerStands.jpg" position="1"/>
+            </images>
+        </category>
+        <category name="cases_and_bags" id="27" feed_url="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=27">
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/Cases-and-Bags2.jpg" position="1"/>
+            </images>
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/Cases-and-Bags2.jpg" position="1"/>
+            </images>
+        </category>
+        <category name="display_and_signage" id="99" feed_url="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=99">
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/Display_Signage.jpg" position="1"/>
+            </images>
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/Display_Signage.jpg" position="1"/>
+            </images>
+        </category>
+        <category name="gantry" id="71" feed_url="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=71">
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/Arena4_icon.gif" position="1"/>
+            </images>
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/Arena4_icon.gif" position="1"/>
+            </images>
+        </category>
+        <category name="graphic_pods_and_lightboxes" id="48" feed_url="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=48">
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/Lightboxes.jpg" position="1"/>
+            </images>
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/Lightboxes.jpg" position="1"/>
+            </images>
+        </category>
+        <category name="lighting" id="15" feed_url="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=15">
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/Lighting.jpg" position="1"/>
+            </images>
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/Lighting.jpg" position="1"/>
+            </images>
+        </category>
+        <category name="linear" id="195" feed_url="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=195">
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/Linear/Linear_cat_icon.jpg" position="1"/>
+            </images>
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/Linear/Linear_cat_icon.jpg" position="1"/>
+            </images>
+        </category>
+        <category name="literature_holders" id="14" feed_url="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=14">
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/Lit_Holder.jpg" position="1"/>
+            </images>
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/Lit_Holder.jpg" position="1"/>
+            </images>
+        </category>
+        <category name="modular_panels_and_exhibition_stands" id="37" feed_url="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=37">
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/ModularPanels.jpg" position="1"/>
+            </images>
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/ModularPanels.jpg" position="1"/>
+            </images>
+        </category>
+        <category name="outdoor_or_indoor_promotion_products" id="98" feed_url="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=98">
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/PromotorUnits.jpg" position="1"/>
+            </images>
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/PromotorUnits.jpg" position="1"/>
+            </images>
+        </category>
+        <category name="physique_portable_furniture" id="17" feed_url="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=17">
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/Physique.jpg" position="1"/>
+            </images>
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/Physique.jpg" position="1"/>
+            </images>
+        </category>
+        <category name="pop_ups" id="13" feed_url="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=13">
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/PopUps.jpg" position="1"/>
+            </images>
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/PopUps.jpg" position="1"/>
+            </images>
+        </category>
+        <category name="spares" id="222" feed_url="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=222">
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/Spares_cat.jpg" position="1"/>
+            </images>
+            <images>
+                <image href="http://www.ultimadisplays.co.uk/images/Spares_cat.jpg" position="1"/>
+            </images>
+        </category>
+    </top_categories>
+</root>

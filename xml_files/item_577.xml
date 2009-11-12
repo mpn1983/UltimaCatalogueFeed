@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssxml version="1.00">
+    <ssxmlquery name="item" version="1.00" account="ULTIMA" profileuserid="3451" profileusercode="Collective Colour XML TEST" profileusername="Collective Colour XML TEST" profileuseremail="matt@collectivecolour.co.uk" request="000001" requestdt="2009-11-06 14:22:14" sessionid="6c19be76-9894-44d0-a5fa-2c1b04b97dbb">
+        <ssxmlparameters>
+            <ssxmlparameter name="itemid">577</ssxmlparameter>
+        </ssxmlparameters>
+        <item id="577" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=577" >
+            <code>ABXXX</code>
+            <title>Carry Bags</title>
+            <category1 id="213" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=213">
+                <name>Modular Panels and Exhibition Stands Cases and Bags </name>
+                <path>Cases and Bags &gt; Modular Panels and Exhibition Stands Cases and Bags </path>
+            </category1>
+            <category2 id="208" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=208">
+                <name>Cases and bags</name>
+                <path>Modular Panels and Exhibition Stands &gt; Cases and bags</path>
+            </category2>
+            <price1 ccy="GBP">0.00</price1>
+            <position>1</position>
+            <quantity>1</quantity>
+            <datetimeupdated>2008-07-30 15:31:18</datetimeupdated>
+            <image1 href="http://www.ultimadisplays.co.uk/images/Bags and Cases/bag.jpg">
+                <language code="EN" name="English"/>
+            </image1>
+            <image2 href="http://www.ultimadisplays.co.uk/images/filler.gif">
+                <language code="EN" name="English"/>
+            </image2>
+            <image4 href="http://www.ultimadisplays.co.uk/images/Bags and Cases/bag.jpg">
+                <language code="EN" name="English"/>
+            </image4>
+            <language code="EN" name="English" />
+            <attributes count="4">
+                <attribute id="1" name="Description" type="TEXT">Range of cost effective carry bags to transport Modular panels and Folding panel kits</attribute>
+                <attribute id="2" name="Features" type="TEXT">Standard sizes from stock or custom made;Carry bags are available in &lt;STRONG&gt;Basic&lt;/STRONG&gt; and &lt;STRONG&gt;Standard &lt;/STRONG&gt;styles;&lt;STRONG&gt;Basic&lt;/STRONG&gt; &lt;STRONG&gt;bags&lt;/STRONG&gt; are manufactured in 600 denier polypropylene. They have a simple grab handle at the centre of the bag and have a zip which opens at the top only;&lt;STRONG&gt;Standard bags&lt;/STRONG&gt; are manufactured in 1200 denier polypropylene. Standard bags have an 'A' frame incorporating a grab handle at the top of the bag. Standard bags also have an adjustable shoulder strap. The zip opens part way down the bag for improved access.;AB107 Pole bag is suitable for carrying 50 off 16mm dia poles or 25 off 25mm dia poles;AB108 Base bag is suitable for carrying 3 off 300mm dia circular bases</attribute>
+                <attribute id="8" name="symbol_one" type="TEXT">Modular</attribute>
+                <attribute id="9" name="symbol_two" type="TEXT">10 Year Guarantee</attribute>
+            </attributes>
+            <backlinks count="24">
+                <link name="" fromtype="ITEM" fromid="792" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=792" />
+                <link name="" fromtype="ITEM" fromid="475" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=475" />
+                <link name="" fromtype="ITEM" fromid="591" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=591" />
+                <link name="" fromtype="ITEM" fromid="818" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=818" />
+                <link name="" fromtype="ITEM" fromid="1052" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=1052" />
+                <link name="" fromtype="ITEM" fromid="767" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=767" />
+                <link name="" fromtype="ITEM" fromid="841" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=841" />
+                <link name="" fromtype="ITEM" fromid="317" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=317" />
+                <link name="" fromtype="ITEM" fromid="793" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=793" />
+                <link name="" fromtype="ITEM" fromid="768" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=768" />
+                <link name="" fromtype="ITEM" fromid="839" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=839" />
+                <link name="" fromtype="ITEM" fromid="840" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=840" />
+                <link name="" fromtype="ITEM" fromid="131" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=131" />
+                <link name="" fromtype="ITEM" fromid="304" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=304" />
+                <link name="" fromtype="ITEM" fromid="307" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=307" />
+                <link name="" fromtype="ITEM" fromid="310" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=310" />
+                <link name="" fromtype="ITEM" fromid="301" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=301" />
+                <link name="" fromtype="ITEM" fromid="275" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=275" />
+                <link name="" fromtype="ITEM" fromid="315" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=315" />
+                <link name="" fromtype="ITEM" fromid="285" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=285" />
+                <link name="" fromtype="ITEM" fromid="548" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=548" />
+                <link name="" fromtype="ITEM" fromid="547" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=547" />
+                <link name="" fromtype="ITEM" fromid="281" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=281" />
+                <link name="" fromtype="ITEM" fromid="720" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=720" />
+            </backlinks>
+            <variants>
+                <variant id="3117">
+                    <code>AB107</code>
+                    <price1 ccy="GBP">12.00</price1>
+                    <position>-10</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2008-07-30 15:31:03</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT">AB107 1050 x 150 dia Pole Bag</attribute>
+                        <attribute number="18" name="Type" type="TEXT">Basic</attribute>
+                    </attributes>
+                </variant>
+                <variant id="3116">
+                    <code>AB108</code>
+                    <price1 ccy="GBP">12.00</price1>
+                    <position>-10</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2007-10-18 11:53:57</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT">AB108 320 x 320 x 60 Base bag</attribute>
+                        <attribute number="18" name="Type" type="TEXT">Basic</attribute>
+                    </attributes>
+                </variant>
+                <variant id="3113">
+                    <code>AB109</code>
+                    <price1 ccy="GBP">45.00</price1>
+                    <position>-10</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2007-10-18 12:04:14</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT">AB109 940 x 640 x 160</attribute>
+                        <attribute number="18" name="Type" type="TEXT">Standard</attribute>
+                    </attributes>
+                </variant>
+                <variant id="3115">
+                    <code>AB110</code>
+                    <price1 ccy="GBP">30.00</price1>
+                    <position>-10</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2007-10-18 14:01:00</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT">AB110 940 x 640 x 125</attribute>
+                        <attribute number="18" name="Type" type="TEXT">Basic</attribute>
+                    </attributes>
+                </variant>
+                <variant id="3112">
+                    <code>AB111</code>
+                    <price1 ccy="GBP">50.00</price1>
+                    <position>-10</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2007-10-18 12:06:10</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT">AB111 940 x 940 x 125</attribute>
+                        <attribute number="18" name="Type" type="TEXT">Standard</attribute>
+                    </attributes>
+                </variant>
+                <variant id="3111">
+                    <code>AB112A</code>
+                    <price1 ccy="GBP">45.00</price1>
+                    <position>-10</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2008-02-29 11:59:00</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT">AB112A 1050 x 550 x 160</attribute>
+                        <attribute number="18" name="Type" type="TEXT">Standard</attribute>
+                    </attributes>
+                </variant>
+                <variant id="3114">
+                    <code>AB114</code>
+                    <price1 ccy="GBP">34.00</price1>
+                    <position>-10</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2007-10-18 12:14:08</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT">AB114 1040 x 740 x 125</attribute>
+                        <attribute number="18" name="Type" type="TEXT">Basic</attribute>
+                    </attributes>
+                </variant>
+                <variant id="3110">
+                    <code>AB115A</code>
+                    <price1 ccy="GBP">48.00</price1>
+                    <position>-10</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2008-09-10 12:17:26</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT">AB115A 1040 x 790 x 160</attribute>
+                        <attribute number="18" name="Type" type="TEXT">Standard</attribute>
+                    </attributes>
+                </variant>
+                <variant id="3109">
+                    <code>AB116</code>
+                    <price1 ccy="GBP">55.00</price1>
+                    <position>-10</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2007-10-18 12:07:42</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT">AB116 1040 x 1040 x 160</attribute>
+                        <attribute number="18" name="Type" type="TEXT">Standard</attribute>
+                    </attributes>
+                </variant>
+                <variant id="5003">
+                    <code>AB109A</code>
+                    <price1 ccy="GBP">45.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2008-07-24 09:52:37</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT">AB109A 940 x 640 x 200</attribute>
+                        <attribute number="18" name="Type" type="TEXT">Standard</attribute>
+                    </attributes>
+                </variant>
+                <variant id="5010">
+                    <code>AB110A</code>
+                    <price1 ccy="GBP">35.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2008-09-29 10:19:15</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT">AB110A 940 x 640 x 160</attribute>
+                        <attribute number="18" name="Type" type="TEXT">Basic</attribute>
+                    </attributes>
+                </variant>
+                <variant id="5011">
+                    <code>AB110B</code>
+                    <price1 ccy="GBP">35.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2007-10-18 15:23:38</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT">AB110B 940 x 640 x 200</attribute>
+                        <attribute number="18" name="Type" type="TEXT">Basic</attribute>
+                    </attributes>
+                </variant>
+                <variant id="5012">
+                    <code>AB114A</code>
+                    <price1 ccy="GBP">30.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2007-10-18 15:24:45</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT">AB114A 1040 x 740 x 160</attribute>
+                        <attribute number="18" name="Type" type="TEXT">Basic</attribute>
+                    </attributes>
+                </variant>
+                <variant id="5004">
+                    <code>AB115B</code>
+                    <price1 ccy="GBP">48.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2008-09-10 12:17:42</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT">AB115B 1040 x 740 x 200</attribute>
+                        <attribute number="18" name="Type" type="TEXT">Standard</attribute>
+                    </attributes>
+                </variant>
+                <variant id="5006">
+                    <code>AB116A</code>
+                    <price1 ccy="GBP">50.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2007-10-18 13:51:20</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT">AB116A 1040 x 1040 x 200</attribute>
+                        <attribute number="18" name="Type" type="TEXT">Standard</attribute>
+                    </attributes>
+                </variant>
+                <variant id="5005">
+                    <code>AB116B</code>
+                    <price1 ccy="GBP">50.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2007-10-18 16:45:32</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT">AB116B 1040 x 1040 x 125</attribute>
+                        <attribute number="18" name="Type" type="TEXT">Standard</attribute>
+                    </attributes>
+                </variant>
+                <variant id="5013">
+                    <code>AB136</code>
+                    <price1 ccy="GBP">30.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2007-10-18 15:31:52</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT">AB136 1040 x 740 x 200</attribute>
+                        <attribute number="18" name="Type" type="TEXT">Basic</attribute>
+                    </attributes>
+                </variant>
+                <variant id="5007">
+                    <code>AB172</code>
+                    <price1 ccy="GBP">54.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2007-10-18 13:53:03</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT">AB172 1050 x 550 x 240</attribute>
+                        <attribute number="18" name="Type" type="TEXT">Standard</attribute>
+                    </attributes>
+                </variant>
+                <variant id="5008">
+                    <code>AB172</code>
+                    <price1 ccy="GBP">54.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2007-10-18 15:20:11</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT">AB172 1050 x 550 x 240</attribute>
+                        <attribute number="18" name="Type" type="TEXT">Standard</attribute>
+                    </attributes>
+                </variant>
+                <variant id="5009">
+                    <code>AB176</code>
+                    <price1 ccy="GBP">52.50</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2007-10-18 15:21:18</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT">AB176 1050 x 650 x 160</attribute>
+                        <attribute number="18" name="Type" type="TEXT">Standard</attribute>
+                    </attributes>
+                </variant>
+                <variant id="5025">
+                    <code>AB201</code>
+                    <price1 ccy="GBP">66.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2007-10-19 15:40:33</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT">AB201 Reflecta Lite Bag</attribute>
+                        <attribute number="18" name="Type" type="TEXT">Standard</attribute>
+                    </attributes>
+                </variant>
+                <variant id="5014">
+                    <code>AB207</code>
+                    <price1 ccy="GBP">43.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2007-10-18 15:32:38</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT">AB207 800 x 550 x 100</attribute>
+                        <attribute number="18" name="Type" type="TEXT">Standard</attribute>
+                    </attributes>
+                </variant>
+                <variant id="5015">
+                    <code>AB208</code>
+                    <price1 ccy="GBP">44.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2007-10-18 15:50:55</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT">AB208 800 x 550 x 150</attribute>
+                        <attribute number="18" name="Type" type="TEXT">Standard</attribute>
+                    </attributes>
+                </variant>
+            </variants>
+        </item>
+    </ssxmlquery>
+</ssxml>

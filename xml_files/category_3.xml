@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssxml version="1.00">
+    <ssxmlquery name="category" version="1.00" account="ULTIMA" profileuserid="3451" profileusercode="Collective Colour XML TEST" profileusername="Collective Colour XML TEST" profileuseremail="matt@collectivecolour.co.uk" request="000001" requestdt="2009-11-06 14:11:43" sessionid="c2676372-60b4-42d5-95f7-68e9620aa5ca">
+        <ssxmlparameters>
+            <ssxmlparameter name="categoryid">3</ssxmlparameter>
+        </ssxmlparameters>
+        <category id="3" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=3">
+            <name>Banner Stands</name>
+            <description>&lt;P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"&gt;&lt;SPAN lang=EN-GB style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 7.5pt"&gt;The Ultima banner range is the most extensive the in the market and offers a wide choice of sizes and design features. The range&lt;/SPAN&gt;&lt;SPAN lang=EN-GB style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-size: 7.5pt"&gt; &lt;/SPAN&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-ansi-language: EN-US"&gt;includes tension banners, roller and cassette banners, motorized rotating banners and outdoor banners; offering style and quality at very affordable prices. All our banners are reusable and most are supplied complete with carry bag. Our cassette banners have the additional advantage of removable graphic cassettes to enable rapid change of graphics - ideal for promotional campaigns and retail display.&lt;/SPAN&gt;&lt;SPAN style="FONT-FAMILY: Arial; mso-ansi-language: EN-US"&gt;&lt;?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;</description>
+            <image1 href="http://www.ultimadisplays.co.uk/images/BannerStands.jpg"></image1>
+            <datetimestart>2005-08-10 17:38:00</datetimestart>
+            <language code="EN" name="English" />
+            <position>1</position>
+            <foldername>banner_stands</foldername>
+            <fullfoldername>products/banner_stands/</fullfoldername>
+            <items>
+                <item id="847" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=847">
+                    <code>WH361</code>
+                    <title>Breeze A3</title>
+                    <image1 href="http://www.ultimadisplays.co.uk/images/iteme8471.jpg"></image1>
+                    <price1 ccy="GBP">12.00</price1>
+                    <variants count="0"></variants>
+                    <attributes count="4">
+                        <attribute id="1" name="Description" type="TEXT"><![CDATA[Breeze is a desktop roller banner ideal for promotions and marketing giveaways]]>
+                        </attribute>
+                        <attribute id="2" name="Features" type="TEXT"><![CDATA[Retractable roller banner;400mm (h) x 297mm (w) visible graphic area (add 10mm to graphic length to allow for roller);Self adhesive top rail;Lightweight;Two piece support pole;Available in anodised silver;Quick to assemble and easy to use]]>
+                        </attribute>
+                        <attribute id="8" name="symbol_one" type="TEXT"><![CDATA[Modular]]>
+                        </attribute>
+                        <attribute id="9" name="symbol_two" type="TEXT"><![CDATA[1 Year Guarantee]]>
+                        </attribute>
+                    </attributes>
+                </item>
+                <item id="1013" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=1013">
+                    <code>UB100</code>
+                    <title>Thunder</title>
+                    <image1 href="http://www.ultimadisplays.co.uk/images/Banner Stands/UB100_Thunder.jpg"></image1>
+                    <price1 ccy="GBP">0.00</price1>
+                    <variants count="2">
+                        <minprice1 ccy="GBP">75.00</minprice1>
+                        <maxprice1 ccy="GBP">80.00</maxprice1>
+                    </variants>
+                    <attributes count="3">
+                        <attribute id="2" name="Features" type="TEXT"><![CDATA[Stylish &#8216;designer&#8217; foot with polished finish and protective anti-slip pad;Compact yet very stable;Deluxe three part twist &amp; lock pole will lock to any height 870-2100mm;Snap frame rails enable easy graphic changes;2 widths available;Includes quality carry bag;Joining bars available;Visible graphic area: 870-2100mm (h) x 800 or 1000mm (w)]]>
+                        </attribute>
+                        <attribute id="8" name="symbol_one" type="TEXT"><![CDATA[Modular]]>
+                        </attribute>
+                        <attribute id="9" name="symbol_two" type="TEXT"><![CDATA[10 Year Guarantee]]>
+                        </attribute>
+                    </attributes>
+                </item>
+            </items>
+            <subcategories count="8">
+                <category id="36" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=36">
+                    <name>Cassette Banners</name>
+                    <brand id="0" name="Common" />
+                    <fullfoldername>products/banner_stands/cassette_banners/</fullfoldername>
+                </category>
+                <category id="140" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=140">
+                    <name>Lighting</name>
+                    <brand id="0" name="Common" />
+                    <fullfoldername>products/banner_stands/lighting/</fullfoldername>
+                </category>
+                <category id="63" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=63">
+                    <name>Motorised Banners</name>
+                    <brand id="0" name="Common" />
+                    <fullfoldername>products/banner_stands/motorised_banners/</fullfoldername>
+                </category>
+                <category id="50" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=50">
+                    <name>Rigid Banners</name>
+                    <brand id="0" name="Common" />
+                    <fullfoldername>products/banner_stands/rigid_banners/</fullfoldername>
+                </category>
+                <category id="21" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=21">
+                    <name>Roller Banners</name>
+                    <brand id="0" name="Common" />
+                    <fullfoldername>products/banner_stands/roller-banners/</fullfoldername>
+                </category>
+                <category id="22" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=22">
+                    <name>Tension Banners</name>
+                    <brand id="0" name="Common" />
+                    <fullfoldername>products/banner_stands/tension_banners/</fullfoldername>
+                </category>
+                <category id="39" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=39">
+                    <name>Cases and Bags</name>
+                    <brand id="0" name="Common" />
+                    <fullfoldername>products/banner_stands/cases_and_bags/</fullfoldername>
+                </category>
+                <category id="137" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=137">
+                    <name>Accessories</name>
+                    <brand id="0" name="Common" />
+                    <fullfoldername>products/banner_stands/accessories/</fullfoldername>
+                </category>
+            </subcategories>
+        </category>
+    </ssxmlquery>
+</ssxml>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssxml version="1.00">
+    <ssxmlquery name="item" version="1.00" account="ULTIMA" profileuserid="3451" profileusercode="Collective Colour XML TEST" profileusername="Collective Colour XML TEST" profileuseremail="matt@collectivecolour.co.uk" request="000001" requestdt="2009-11-06 15:04:24" sessionid="300656a8-39f7-42b4-a394-37b3c514981b">
+        <ssxmlparameters>
+            <ssxmlparameter name="itemid">102</ssxmlparameter>
+        </ssxmlparameters>
+        <item id="102" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=102" >
+            <code>ML922-ML926</code>
+            <title>Reflecta Pro Lightbox - ML926 is Being discontinued</title>
+            <foldername>reflecta_pro_desktop_display_ml92/itemid_102</foldername>
+            <category1 id="48" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=48">
+                <name>Graphic Pods and Lightboxes</name>
+                <path>Graphic Pods and Lightboxes</path>
+                <brand id="0" name="Common" />
+                <fullfoldername>products/graphic_pods_and_lightboxes/</fullfoldername>
+            </category1>
+            <category2 id="113" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=113">
+                <name>Graphic Pods and Lightboxes</name>
+                <path>Retail &gt; Graphic Pods and Lightboxes</path>
+                <brand id="0" name="Common" />
+                <parentcategory1 id="11" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=11" name="Retail" />
+            </category2>
+            <price1 ccy="GBP">0.00</price1>
+            <position>1</position>
+            <quantity>1</quantity>
+            <datetimeupdated>2009-01-12 00:01:00</datetimeupdated>
+            <image1 href="http://www.ultimadisplays.co.uk/images/Retail/Reflecta_Pro.jpg"></image1>
+            <image4 href="http://www.ultimadisplays.co.uk/images/Retail/Reflecta_Pro.jpg"></image4>
+            <document1 href="http://www.ultimadisplays.co.uk/files/User Instructions/Retail/Reflecta Pro Rev 4.pdf">
+                <folder>files/User Instructions/Retail</folder>
+                <filename>Reflecta Pro Rev 4.pdf</filename>
+                <language code="EN" name="English"/>
+            </document1>
+            <flashtext>price freeze 5 percent</flashtext>
+            <flashtextimage1 href="http://www.ultimadisplays.co.uk/images/Price_Freeze_5perc.gif" />
+            <flashtextcode></flashtextcode>
+            <flashtextdatetimeupdated>2008-12-19 10:08:13</flashtextdatetimeupdated>
+            <language code="EN" name="English" />
+            <attributes count="4">
+                <attribute id="1" name="Description" type="TEXT"><![CDATA[An unusual and subtle way of creating an eye catching display. The Reflecta Pro lightbox provides you with a simple and cost effective solution.]]>
+                </attribute>
+                <attribute id="2" name="Features" type="TEXT"><![CDATA[&lt;FONT color=#ff0000&gt;Please note that teh 5% price freeze is for the B2 size only&lt;/FONT&gt;;Available in four sizes;Desktop display or wall mountable;B2 size is wall mountable only;Attractively finished in clear acrylic with chrome silver fittings;LED light source complete with 12V power supply;Can be positioned in portrait or landscape formats;Recommended graphic material 200 micron Duratrans or equivalent;Suitable for indoor use only]]>
+                </attribute>
+                <attribute id="8" name="symbol_one" type="TEXT"><![CDATA[Off the shelf]]>
+                </attribute>
+                <attribute id="9" name="symbol_two" type="TEXT"><![CDATA[1 Year Guarantee]]>
+                </attribute>
+            </attributes>
+            <variants count="4" minprice1="55.00" maxprice1="94.05">
+                <variant id="166">
+                    <code>ML922</code>
+                    <price1 ccy="GBP">94.05</price1>
+                    <position>-10</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2009-01-28 16:49:51</datetimeupdated>
+                    <attributes count="1">
+                        <attribute number="3" name="Size" type="TEXT"><![CDATA[490 (h) x 350 (w)  - ML922]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+                <variant id="165">
+                    <code>ML924</code>
+                    <price1 ccy="GBP">79.00</price1>
+                    <position>-10</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2009-01-12 00:01:00</datetimeupdated>
+                    <attributes count="1">
+                        <attribute number="3" name="Size" type="TEXT"><![CDATA[215 (h) x 315 (w)  - ML924]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+                <variant id="164">
+                    <code>ML925</code>
+                    <price1 ccy="GBP">65.00</price1>
+                    <position>-10</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2009-01-12 00:01:00</datetimeupdated>
+                    <attributes count="1">
+                        <attribute number="3" name="Size" type="TEXT"><![CDATA[210 (h) x 260 (w)  - ML925]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+                <variant id="163">
+                    <code>ML926</code>
+                    <price1 ccy="GBP">55.00</price1>
+                    <position>-10</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2009-01-12 00:01:00</datetimeupdated>
+                    <attributes count="1">
+                        <attribute number="3" name="Size" type="TEXT"><![CDATA[145 (h) x 190 (w)  - ML926]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+            </variants>
+        </item>
+    </ssxmlquery>
+</ssxml>

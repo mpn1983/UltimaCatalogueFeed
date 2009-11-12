@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssxml version="1.00">
+    <ssxmlquery name="item" version="1.00" account="ULTIMA" profileuserid="3451" profileusercode="Collective Colour XML TEST" profileusername="Collective Colour XML TEST" profileuseremail="matt@collectivecolour.co.uk" request="000001" requestdt="2009-11-06 14:23:34" sessionid="d4e0978e-78c0-4ba0-9d00-50df579ff5f3">
+        <ssxmlparameters>
+            <ssxmlparameter name="itemid">1044</ssxmlparameter>
+        </ssxmlparameters>
+        <item id="1044" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=1044" >
+            <code>VH610-VH906</code>
+            <title>Lightning Poster Rails</title>
+            <foldername>lightning_poster_rails_vh610_vh906/itemid_1044</foldername>
+            <category1 id="106" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=106">
+                <name>Poster Rails</name>
+                <path>Display and Signage &gt; Poster Rails</path>
+                <brand id="0" name="Common" />
+                <fullfoldername>products/display_and_signage/poster_rails/</fullfoldername>
+                <parentcategory1 id="99" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=99" name="Display and Signage" />
+            </category1>
+            <price1 ccy="GBP">0.00</price1>
+            <position>1</position>
+            <quantity>1</quantity>
+            <datetimeupdated>2009-01-12 00:01:01</datetimeupdated>
+            <image1 href="http://www.ultimadisplays.co.uk/images/Retail/Lightning_PosterRail.jpg"></image1>
+            <image2 href="http://www.ultimadisplays.co.uk/images/Retail/Lightning_PosterRail_detail.jpg"></image2>
+            <image4 href="http://www.ultimadisplays.co.uk/images/Retail/Lightning_PosterRail.jpg"></image4>
+            <language code="EN" name="English" />
+            <attributes count="3">
+                <attribute id="2" name="Features" type="TEXT"><![CDATA[Based on the snap rails of the popular Lightning banner;Tough twist and open operation;Anodised silver finish;Suitable for substrates from 225 microns to 300 microns thick;Wide range of sizes available;Black end caps and hooks]]>
+                </attribute>
+                <attribute id="8" name="symbol_one" type="TEXT"><![CDATA[Modular]]>
+                </attribute>
+                <attribute id="9" name="symbol_two" type="TEXT"><![CDATA[10 Year Guarantee]]>
+                </attribute>
+            </attributes>
+            <variants count="22" minprice1="8.00" maxprice1="18.00">
+                <variant id="5172">
+                    <code>VH610</code>
+                    <price1 ccy="GBP">15.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2009-01-12 00:01:00</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT"><![CDATA[A0 Portrait]]>
+                        </attribute>
+                        <attribute number="14" name="Description" type="TEXT"><![CDATA[Closed Hook]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+                <variant id="5173">
+                    <code>VH610</code>
+                    <price1 ccy="GBP">15.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2009-01-12 00:01:00</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT"><![CDATA[A0 Portrait]]>
+                        </attribute>
+                        <attribute number="14" name="Description" type="TEXT"><![CDATA[Open Hook]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+                <variant id="5174">
+                    <code>VH611</code>
+                    <price1 ccy="GBP">12.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2009-01-12 00:01:00</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT"><![CDATA[A1 Portrait]]>
+                        </attribute>
+                        <attribute number="14" name="Description" type="TEXT"><![CDATA[Open Hook]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+                <variant id="5175">
+                    <code>VH611</code>
+                    <price1 ccy="GBP">12.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2009-01-12 00:01:00</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT"><![CDATA[A1 Portrait]]>
+                        </attribute>
+                        <attribute number="14" name="Description" type="TEXT"><![CDATA[Closed Hook]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+                <variant id="5176">
+                    <code>VH612</code>
+                    <price1 ccy="GBP">10.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2009-01-12 00:01:00</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT"><![CDATA[A2 Portrait]]>
+                        </attribute>
+                        <attribute number="14" name="Description" type="TEXT"><![CDATA[Closed Hook]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+                <variant id="5177">
+                    <code>VH612</code>
+                    <price1 ccy="GBP">10.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2009-01-12 00:01:00</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT"><![CDATA[A2 Portrait]]>
+                        </attribute>
+                        <attribute number="14" name="Description" type="TEXT"><![CDATA[Open Hook]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+                <variant id="5178">
+                    <code>VH613</code>
+                    <price1 ccy="GBP">9.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2009-01-12 00:01:00</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT"><![CDATA[A3 Portrait]]>
+                        </attribute>
+                        <attribute number="14" name="Description" type="TEXT"><![CDATA[Open Hook]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+                <variant id="5179">
+                    <code>VH613</code>
+                    <price1 ccy="GBP">9.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2009-01-12 00:01:00</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT"><![CDATA[A3 Portrait]]>
+                        </attribute>
+                        <attribute number="14" name="Description" type="TEXT"><![CDATA[Closed Hook]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+                <variant id="5180">
+                    <code>VH614</code>
+                    <price1 ccy="GBP">8.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2009-01-12 00:01:00</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT"><![CDATA[A4 Portrait]]>
+                        </attribute>
+                        <attribute number="14" name="Description" type="TEXT"><![CDATA[Closed Hook]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+                <variant id="5181">
+                    <code>VH614</code>
+                    <price1 ccy="GBP">8.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2009-01-12 00:01:00</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT"><![CDATA[A4 Portrait]]>
+                        </attribute>
+                        <attribute number="14" name="Description" type="TEXT"><![CDATA[Open Hook]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+                <variant id="5170">
+                    <code>VH901</code>
+                    <price1 ccy="GBP">8.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2008-02-29 16:47:50</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT"><![CDATA[300mm (w)]]>
+                        </attribute>
+                        <attribute number="14" name="Description" type="TEXT"><![CDATA[Open Hook]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+                <variant id="5171">
+                    <code>VH901</code>
+                    <price1 ccy="GBP">8.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2008-02-29 16:48:00</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT"><![CDATA[300mm (w)]]>
+                        </attribute>
+                        <attribute number="14" name="Description" type="TEXT"><![CDATA[Closed Hook]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+                <variant id="5168">
+                    <code>VH902</code>
+                    <price1 ccy="GBP">10.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2009-01-12 00:01:00</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT"><![CDATA[500mm (w)]]>
+                        </attribute>
+                        <attribute number="14" name="Description" type="TEXT"><![CDATA[Closed Hook]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+                <variant id="5169">
+                    <code>VH902</code>
+                    <price1 ccy="GBP">10.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2009-01-12 00:01:00</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT"><![CDATA[500mm (w)]]>
+                        </attribute>
+                        <attribute number="14" name="Description" type="TEXT"><![CDATA[Open Hook]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+                <variant id="5166">
+                    <code>VH903</code>
+                    <price1 ccy="GBP">12.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2009-01-12 00:01:00</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT"><![CDATA[600mm]]>
+                        </attribute>
+                        <attribute number="14" name="Description" type="TEXT"><![CDATA[Open Hook]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+                <variant id="5167">
+                    <code>VH903</code>
+                    <price1 ccy="GBP">12.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2009-01-12 00:01:00</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT"><![CDATA[600mm]]>
+                        </attribute>
+                        <attribute number="14" name="Description" type="TEXT"><![CDATA[Closed Hook]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+                <variant id="5164">
+                    <code>VH904</code>
+                    <price1 ccy="GBP">15.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2009-01-12 00:01:00</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT"><![CDATA[900mm (w)]]>
+                        </attribute>
+                        <attribute number="14" name="Description" type="TEXT"><![CDATA[Closed Hook]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+                <variant id="5165">
+                    <code>VH904</code>
+                    <price1 ccy="GBP">15.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2009-01-12 00:01:00</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT"><![CDATA[900mm (w)]]>
+                        </attribute>
+                        <attribute number="14" name="Description" type="TEXT"><![CDATA[Open Hook]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+                <variant id="5162">
+                    <code>VH905</code>
+                    <price1 ccy="GBP">16.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2009-01-12 00:01:00</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT"><![CDATA[1000mm (w)]]>
+                        </attribute>
+                        <attribute number="14" name="Description" type="TEXT"><![CDATA[Open Hook]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+                <variant id="5163">
+                    <code>VH905</code>
+                    <price1 ccy="GBP">16.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2009-01-12 00:01:00</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT"><![CDATA[1000mm (w)]]>
+                        </attribute>
+                        <attribute number="14" name="Description" type="TEXT"><![CDATA[Closed Hook]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+                <variant id="5160">
+                    <code>VH906</code>
+                    <price1 ccy="GBP">18.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2009-01-12 00:01:00</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT"><![CDATA[1200mm (w)]]>
+                        </attribute>
+                        <attribute number="14" name="Description" type="TEXT"><![CDATA[Closed Hook]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+                <variant id="5161">
+                    <code>VH906</code>
+                    <price1 ccy="GBP">18.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2009-01-12 00:01:00</datetimeupdated>
+                    <attributes count="2">
+                        <attribute number="3" name="Size" type="TEXT"><![CDATA[1200mm (w)]]>
+                        </attribute>
+                        <attribute number="14" name="Description" type="TEXT"><![CDATA[Open Hook]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+            </variants>
+        </item>
+    </ssxmlquery>
+</ssxml>

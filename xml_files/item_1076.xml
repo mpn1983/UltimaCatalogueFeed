@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssxml version="1.00">
+    <ssxmlquery name="item" version="1.00" account="ULTIMA" profileuserid="3451" profileusercode="Collective Colour XML TEST" profileusername="Collective Colour XML TEST" profileuseremail="matt@collectivecolour.co.uk" request="000001" requestdt="2009-11-06 16:41:20" sessionid="4c070e70-b950-4f94-9b12-6697359048f1">
+        <ssxmlparameters>
+            <ssxmlparameter name="itemid">1076</ssxmlparameter>
+        </ssxmlparameters>
+        <item id="1076" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=1076" >
+            <code>CBEM</code>
+            <title>End plates</title>
+            <foldername>barracuda_end_plates_cbem_001/itemid_1076</foldername>
+            <category1 id="223" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=223">
+                <name>Banner Spares</name>
+                <path>Spares &gt; Banner Spares</path>
+                <brand id="0" name="Common" />
+                <fullfoldername>products/spares/banner_spares/</fullfoldername>
+                <parentcategory1 id="222" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=222" name="Spares" />
+            </category1>
+            <price1 ccy="GBP">0.00</price1>
+            <position>1</position>
+            <quantity>1</quantity>
+            <datetimeupdated>2008-08-07 09:25:51</datetimeupdated>
+            <image1 href="http://www.ultimadisplays.co.uk/images/Banner Stands/Barracuda_end plate.jpg">
+                <language code="EN" name="English"/>
+                <folder>images/Banner Stands</folder>
+                <filename>Barracuda_end plate.jpg</filename>
+            </image1>
+            <flashtext>new!</flashtext>
+            <flashtextimage1 href="http://www.ultimadisplays.co.uk/images/item34991.jpg" />
+            <flashtextcode></flashtextcode>
+            <flashtextdatetimeupdated>2008-08-07 09:25:51</flashtextdatetimeupdated>
+            <attributes count="2">
+                <attribute id="8" name="symbol_one" type="TEXT"><![CDATA[[Do Not Display]]]>
+                </attribute>
+                <attribute id="9" name="symbol_two" type="TEXT"><![CDATA[[Do Not Display]]]>
+                </attribute>
+            </attributes>
+            <variants count="2" minprice1="15.00" maxprice1="20.00">
+                <variant id="5335">
+                    <code>CBEM-001</code>
+                    <price1 ccy="GBP">15.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2008-08-06 14:24:39</datetimeupdated>
+                    <attributes count="1">
+                        <attribute number="14" name="Description" type="TEXT"><![CDATA[Suitable for the Barracuda]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+                <variant id="5336">
+                    <code>CBEM-002</code>
+                    <price1 ccy="GBP">20.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2008-08-06 14:26:00</datetimeupdated>
+                    <attributes count="1">
+                        <attribute number="14" name="Description" type="TEXT"><![CDATA[Suitable for the Advance]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+            </variants>
+        </item>
+    </ssxmlquery>
+</ssxml>

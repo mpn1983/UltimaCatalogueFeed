@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssxml version="1.00">
+    <ssxmlquery name="category" version="1.00" account="ULTIMA" profileuserid="3451" profileusercode="Collective Colour XML TEST" profileusername="Collective Colour XML TEST" profileuseremail="matt@collectivecolour.co.uk" request="000001" requestdt="2009-11-06 16:38:53" sessionid="cbdb4d57-945a-4ec8-8a0d-3c92dea4f8a0">
+        <ssxmlparameters>
+            <ssxmlparameter name="categoryid">13</ssxmlparameter>
+        </ssxmlparameters>
+        <category id="13" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=13">
+            <name>Pop-Ups</name>
+            <image1 href="http://www.ultimadisplays.co.uk/images/PopUps.jpg"></image1>
+            <datetimestart>2005-09-20 16:43:00</datetimestart>
+            <language code="EN" name="English" />
+            <position>1</position>
+            <foldername>pop_ups</foldername>
+            <fullfoldername>products/pop_ups/</fullfoldername>
+            <items>
+                <item id="1109" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=1109">
+                    <code>HU301-001</code>
+                    <title>Evloution Hop-up Counter</title>
+                    <image1 href="http://www.ultimadisplays.co.uk/images/Pop Ups/Hop-up-Counter-Big-image.jpg">
+                        <language code="EN" name="English"/>
+                        <folder>images/Pop Ups</folder>
+                        <filename>Hop-up-Counter-Big-image.jpg</filename>
+                    </image1>
+                    <price1 ccy="GBP">122.00</price1>
+                    <variants count="0"></variants>
+                    <attributes count="4">
+                        <attribute id="1" name="Description" type="TEXT"><![CDATA[Tension fabric systems are the next generation in graphic displays. The Evolution Hop-up counter is portable and easy to set-up, offering maximum impact with minimal fuss!]]>
+                        </attribute>
+                        <attribute id="2" name="Features" type="TEXT"><![CDATA[Lightwight and portable;Easy to fasten graphics using hook and loop;high quality anodised frame;very fast assembly;thermoformed top and shelf available in Black, Silver and Beech;Optional carry bag including shoulder strap &lt;FONT color=#ff0000&gt;(AB214)&lt;/FONT&gt;]]>
+                        </attribute>
+                        <attribute id="8" name="symbol_one" type="TEXT"><![CDATA[[Do Not Display]]]>
+                        </attribute>
+                        <attribute id="9" name="symbol_two" type="TEXT"><![CDATA[[Do Not Display]]]>
+                        </attribute>
+                    </attributes>
+                </item>
+                <item id="1005" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=1005">
+                    <code>HU-XXX</code>
+                    <title>Evolution Hop-up</title>
+                    <image1 href="http://www.ultimadisplays.co.uk/images/Pop Ups/Hop_up.jpg"></image1>
+                    <price1 ccy="GBP">0.00</price1>
+                    <variants count="3">
+                        <minprice1 ccy="GBP">225.00</minprice1>
+                        <maxprice1 ccy="GBP">399.00</maxprice1>
+                    </variants>
+                    <attributes count="4">
+                        <attribute id="1" name="Description" type="TEXT"><![CDATA[Tension fabric systems are the next generation in large format graphic displays. The Evolution Hop-up is portable and easy to set-up, offering maximum impact with minimal fuss!]]>
+                        </attribute>
+                        <attribute id="2" name="Features" type="TEXT"><![CDATA[Very fast assembly;Suitable for indoor use;Available in 3 x 2, 3 x 3 and 3 x 4 straight formats;Fabric graphic remains attached to the expanding Hop-up frame;Quality anodised frame;Optional wheeled carry bag and stabilising feet;Optional lighting accessories PS250, PS750, PS650 and PS1000;&lt;FONT color=#ff0000&gt;&lt;STRONG&gt;NB Fabric graphics are not included&lt;/STRONG&gt;&lt;/FONT&gt;;Please click here for Hop-up graphic templates: &lt;A class="" href="files/User Instructions/PopUps/Hop_up_3x2_template_rev2.pdf" target=_blank&gt;3x2 Hop-up template&lt;/A&gt; &lt;A class="" href="files/User Instructions/PopUps/Hop_up_3x3_template_rev2.pdf" target=_blank&gt;3x3 Hop-up template&lt;/A&gt; &lt;A class="" href="https://ultima.sssecure.com/users/ULTIMA/files/User Instructions/PopUps/Hop_up_3x4_template_rev2.pdf" target=_blank&gt;3x4 Hop-up template&lt;/A&gt;]]>
+                        </attribute>
+                        <attribute id="8" name="symbol_one" type="TEXT"><![CDATA[Modular]]>
+                        </attribute>
+                        <attribute id="9" name="symbol_two" type="TEXT"><![CDATA[10 Year Guarantee]]>
+                        </attribute>
+                    </attributes>
+                </item>
+            </items>
+            <subcategories count="6">
+                <category id="123" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=123">
+                    <name>Accessories</name>
+                    <brand id="0" name="Common" />
+                    <fullfoldername>products/pop_ups/accessories/</fullfoldername>
+                </category>
+                <category id="34" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=34">
+                    <name>Cases and Bags</name>
+                    <brand id="0" name="Common" />
+                    <fullfoldername>products/pop_ups/cases_and_bags/</fullfoldername>
+                </category>
+                <category id="121" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=121">
+                    <name>Fabric Kits</name>
+                    <brand id="0" name="Common" />
+                </category>
+                <category id="122" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=122">
+                    <name>Frame Only</name>
+                    <brand id="0" name="Common" />
+                    <fullfoldername>products/pop_ups/frame_only/</fullfoldername>
+                </category>
+                <category id="114" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=114">
+                    <name>Graphic Kits</name>
+                    <brand id="0" name="Common" />
+                    <fullfoldername>products/pop_ups/graphic_kits/</fullfoldername>
+                </category>
+                <category id="25" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=25">
+                    <name>Lighting</name>
+                    <brand id="0" name="Common" />
+                    <fullfoldername>products/pop_ups/lighting/</fullfoldername>
+                </category>
+            </subcategories>
+        </category>
+    </ssxmlquery>
+</ssxml>

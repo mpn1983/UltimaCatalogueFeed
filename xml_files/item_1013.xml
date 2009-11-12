@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssxml version="1.00">
+    <ssxmlquery name="item" version="1.00" account="ULTIMA" profileuserid="3451" profileusercode="Collective Colour XML TEST" profileusername="Collective Colour XML TEST" profileuseremail="matt@collectivecolour.co.uk" request="000001" requestdt="2009-11-06 14:21:45" sessionid="117b1dbb-cde5-490b-9bf8-ac7b1657c39a">
+        <ssxmlparameters>
+            <ssxmlparameter name="itemid">1013</ssxmlparameter>
+        </ssxmlparameters>
+        <item id="1013" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=1013" >
+            <code>UB100</code>
+            <title>Thunder</title>
+            <foldername>thunder_ub100/itemid_1013</foldername>
+            <category1 id="22" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=22">
+                <name>Tension Banners</name>
+                <path>Banner Stands &gt; Tension Banners</path>
+                <brand id="0" name="Common" />
+                <fullfoldername>products/banner_stands/tension_banners/</fullfoldername>
+                <parentcategory1 id="3" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=3" name="Banner Stands" />
+            </category1>
+            <category2 id="3" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=3">
+                <name>Banner Stands</name>
+                <path>Banner Stands</path>
+                <brand id="0" name="Common" />
+            </category2>
+            <price1 ccy="GBP">0.00</price1>
+            <position>1</position>
+            <quantity>1</quantity>
+            <datetimeupdated>2009-01-12 00:01:01</datetimeupdated>
+            <image1 href="http://www.ultimadisplays.co.uk/images/Banner Stands/UB100_Thunder.jpg"></image1>
+            <image2 href="http://www.ultimadisplays.co.uk/images/Banner Stands/UB100_Thunder_foot.jpg"></image2>
+            <image4 href="http://www.ultimadisplays.co.uk/images/Banner Stands/UB100_Thunder.jpg"></image4>
+            <language code="EN" name="English" />
+            <attributes count="3">
+                <attribute id="2" name="Features" type="TEXT"><![CDATA[Stylish &#8216;designer&#8217; foot with polished finish and protective anti-slip pad;Compact yet very stable;Deluxe three part twist &amp; lock pole will lock to any height 870-2100mm;Snap frame rails enable easy graphic changes;2 widths available;Includes quality carry bag;Joining bars available;Visible graphic area: 870-2100mm (h) x 800 or 1000mm (w)]]>
+                </attribute>
+                <attribute id="8" name="symbol_one" type="TEXT"><![CDATA[Modular]]>
+                </attribute>
+                <attribute id="9" name="symbol_two" type="TEXT"><![CDATA[10 Year Guarantee]]>
+                </attribute>
+            </attributes>
+            <variants count="2" minprice1="75.00" maxprice1="80.00">
+                <variant id="5069">
+                    <code>UB100-1000A</code>
+                    <price1 ccy="GBP">80.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2008-02-22 16:53:41</datetimeupdated>
+                    <attributes count="1">
+                        <attribute number="5" name="Width mm" type="INT"><![CDATA[1000]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+                <variant id="5068">
+                    <code>UB100-800A</code>
+                    <price1 ccy="GBP">75.00</price1>
+                    <position>1</position>
+                    <quantity>1</quantity>
+                    <datetimeupdated>2008-02-22 16:53:21</datetimeupdated>
+                    <attributes count="1">
+                        <attribute number="5" name="Width mm" type="INT"><![CDATA[800]]>
+                        </attribute>
+                    </attributes>
+                </variant>
+            </variants>
+        </item>
+    </ssxmlquery>
+</ssxml>

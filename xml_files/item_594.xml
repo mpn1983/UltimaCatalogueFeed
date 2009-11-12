@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ssxml version="1.00">
+    <ssxmlquery name="item" version="1.00" account="ULTIMA" profileuserid="3451" profileusercode="Collective Colour XML TEST" profileusername="Collective Colour XML TEST" profileuseremail="matt@collectivecolour.co.uk" request="000001" requestdt="2009-11-06 14:11:31" sessionid="8905c3c8-60ac-4a05-9b05-ad2578405bd8">
+        <ssxmlparameters>
+            <ssxmlparameter name="itemid">594</ssxmlparameter>
+        </ssxmlparameters>
+        <item id="594" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=594" >
+            <code>BR110</code>
+            <title>Curved Uno Rails</title>
+            <foldername>addtional_curved_uno_rails_pair_br110/itemid_594</foldername>
+            <category1 id="137" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=137">
+                <name>Accessories</name>
+                <path>Banner Stands &gt; Accessories</path>
+                <brand id="0" name="Common" />
+                <fullfoldername>products/banner_stands/accessories/</fullfoldername>
+                <parentcategory1 id="3" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=3" name="Banner Stands" />
+            </category1>
+            <category2 id="8" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=8">
+                <name>Banner Stands</name>
+                <path>Accessories &gt; Banner Stands</path>
+                <brand id="0" name="Common" />
+                <parentcategory1 id="41" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=category&amp;accesscode=XML1808092003267&amp;categoryid=41" name="Accessories" />
+            </category2>
+            <price1 ccy="GBP">20.00</price1>
+            <position>1</position>
+            <quantity>1</quantity>
+            <datetimeupdated>2007-09-11 10:57:06</datetimeupdated>
+            <image1 href="http://www.ultimadisplays.co.uk/images/Accessories/Uno_curved_rails.jpg"></image1>
+            <image4 href="http://www.ultimadisplays.co.uk/images/Accessories/Uno_curved_rails.jpg"></image4>
+            <language code="EN" name="English" />
+            <attributes count="3">
+                <attribute id="2" name="Features" type="TEXT"><![CDATA[Additional rails suitable for Uno curved banner stands;Supplied in pairs;Available in Black powdercoated finish]]>
+                </attribute>
+                <attribute id="8" name="symbol_one" type="TEXT"><![CDATA[Modular]]>
+                </attribute>
+                <attribute id="9" name="symbol_two" type="TEXT"><![CDATA[10 Year Guarantee]]>
+                </attribute>
+            </attributes>
+            <crosslinks count="1">
+                <link name="" totype="ITEM" toid="513" href="http://www.ultimadisplays.co.uk/ssxml_feed.asp?queryname=item&amp;accesscode=XML1808092003267&amp;itemid=513" />
+            </crosslinks>
+        </item>
+    </ssxmlquery>
+</ssxml>
